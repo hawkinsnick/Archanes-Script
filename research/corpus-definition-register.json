@@ -20,5 +20,9 @@
       "project_treatment": "competing model, source-attributed"
     }
   ],
-  "project_consensus": null
+  "project_consensus": null,
+  "external_comparanda_policy": {
+    "rule": "Later-discovered or external Aegean motifs compared to AS signs remain comparanda unless an explicit corpus authority admits the object.",
+    "example": "Therasia A3 compared in later scholarship to Decorte AS*13; NOT an Archanes corpus admission."
+  }
 }
