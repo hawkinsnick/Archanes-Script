@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "authority": "Decorte 2018",
+  "groups": [
+    {
+      "id": "INITIAL_BONE",
+      "members": [
+        "AS#01",
+        "AS#02",
+        "AS#03",
+        "AS#04"
+      ],
+      "description": "initial subgroup; finely worked signs; bone/ivory emphasis",
+      "dating": "MM IA emphasis, contextual debate retained"
+    },
+    {
+      "id": "STEATITE",
+      "members": [
+        "AS#06",
+        "AS#07",
+        "AS#08",
+        "AS#09"
+      ],
+      "description": "more angular soft-stone subgroup",
+      "dating": "MM I generally"
+    },
+    {
+      "id": "TRANSITIONAL_SEALINGS",
+      "members": [
+        "AS#11",
+        "AS#12",
+        "AS#13",
+        "AS#14",
+        "AS#15",
+        "AS#16"
+      ],
+      "description": "Knossos/Samothrace sealings; rounded signs closer to Cretan Hieroglyphic",
+      "dating": "MM I–MM II"
+    }
+  ],
+  "bridging_objects": [
+    {
+      "id": "AS#05",
+      "note": "Decorte says stylistic differences are not reducible simply to material."
+    },
+    {
+      "id": "AS#10",
+      "note": "Not assigned to one of the three core subgroup member lists in the quoted synthesis; retain separately pending finer reconciliation."
+    }
+  ],
+  "status": "AUTHORITY_MODEL_NOT_PROJECT_CONSENSUS"
+}
