@@ -1,0 +1,25 @@
+{
+  "schema_version": "1.0",
+  "baseline": "Decorte 2018",
+  "comparative_authorities": [
+    {
+      "id": "FERRARA-MONTECCHI-VALERIO-2021",
+      "position": "Reassesses the Archanes formula within the Cretan Hieroglyphic milieu.",
+      "delta_type": "CORPUS_AND_SCRIPT_RELATIONSHIP_INTERPRETATION",
+      "project_rule": "Record object/formula claims separately; do not overwrite Decorte membership."
+    },
+    {
+      "id": "JASINK-WEINGARTEN-2026",
+      "position": "Treats Archanes as a true script/antecedent in discussion of core early seals.",
+      "delta_type": "SCRIPT_STATUS_AND_HISTORICAL_MODEL",
+      "project_rule": "Keep as competing scholarly model; no project consensus."
+    }
+  ],
+  "baseline_complete": {
+    "objects": 16,
+    "table8_metadata": true,
+    "appendix1_signary": true,
+    "table9_formula_patterns": true
+  },
+  "next": "Extract object-level additions/removals or reinterpretations from comparative authorities when explicit."
+}
