@@ -17,16 +17,21 @@
     },
     {
       "id": "ARC-PRE-002",
-      "status": "SOURCE_ACCESS_REQUIRED",
+      "status": "DECORTE_SIGNARY_COMPLETE",
       "completed": [
-        "authority-specific non-collapse rule"
+        "Decorte Appendix I complete label inventory",
+        "18 linear-sequence labels including variants",
+        "21 class-1 sematograph labels",
+        "14 class-2 sematograph labels",
+        "3 unclear marks",
+        "CHIC-based seven-sign comparison list",
+        "formal-comparison non-cognation guardrail"
       ],
       "remaining": [
-        "Decorte sign inventory",
-        "other authority inventories",
-        "concordance claims"
+        "occurrence-level sign-to-object/face matrix",
+        "later-authority signary comparison"
       ],
-      "blocker": "Requires sign tables/figures with exact source locators."
+      "blocker": "Occurrence mapping requires figure-by-figure extraction; later comparison requires additional authority sources."
     },
     {
       "id": "ARC-PRE-003",
