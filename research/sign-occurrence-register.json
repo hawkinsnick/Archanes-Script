@@ -60,5 +60,137 @@
     "CMS/CHIC non-writing classifications for AS#07–09 remain preserved as competing authority states.",
     "Occurrence extraction does not imply phonetic value."
   ],
-  "status": "PARTIAL_OBJECT_FACE_MATRIX_FROM_TEXT"
+  "status": "PARTIAL_OBJECT_FACE_MATRIX_FROM_TEXT",
+  "corpus_level_occurrence_patterns": [
+    {
+      "pattern": [
+        "AS001",
+        "AS002",
+        "ASd002",
+        "ASd003"
+      ],
+      "attestations": 1
+    },
+    {
+      "pattern": [
+        "AS001",
+        "AS002",
+        "AS002",
+        "…"
+      ],
+      "attestations": 1,
+      "note": "Decorte prints an internal divider/parallel notation; preserve source formatting conceptually."
+    },
+    {
+      "pattern": [
+        "AS001",
+        "AS002"
+      ],
+      "attestations": 2
+    },
+    {
+      "pattern": [
+        "AS001",
+        "AS002",
+        "AS**x"
+      ],
+      "attestations": 2
+    },
+    {
+      "pattern": [
+        [
+          "AS001",
+          "AS002",
+          "AS**x"
+        ],
+        [
+          "AS002",
+          "AS003",
+          "AS004"
+        ]
+      ],
+      "attestations": 2
+    },
+    {
+      "pattern": [
+        [
+          "AS001",
+          "AS002"
+        ],
+        [
+          "AS002",
+          "AS003",
+          "AS016"
+        ],
+        [
+          "AS015",
+          "AS014"
+        ]
+      ],
+      "attestations": 1
+    },
+    {
+      "pattern": [
+        [
+          "AS001",
+          "AS002"
+        ],
+        [
+          "AS002",
+          "AS005",
+          "AS006",
+          "AS005"
+        ],
+        [
+          "AS002",
+          "AS003",
+          "AS004"
+        ]
+      ],
+      "attestations": 1
+    },
+    {
+      "pattern": [
+        [
+          "AS001",
+          "AS002",
+          "AS013"
+        ],
+        [
+          "AS002",
+          "AS003",
+          "AS004"
+        ],
+        [
+          "AS002",
+          "AS012"
+        ],
+        [
+          "AS**x"
+        ]
+      ],
+      "attestations": 1
+    },
+    {
+      "pattern": [
+        [
+          "AS001",
+          "AS002"
+        ],
+        [
+          "AS002",
+          "AS003?",
+          "AS008"
+        ],
+        [
+          "AS009",
+          "AS010",
+          "AS011"
+        ]
+      ],
+      "attestations": 1
+    }
+  ],
+  "corpus_level_source": "Decorte 2018 formula table as exposed in full text",
+  "mapping_warning": "Aggregate patterns are not assigned to specific AS# objects unless the prose/table explicitly identifies the object; no reverse inference from counts."
 }
