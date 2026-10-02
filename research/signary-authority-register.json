@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "authorities": [
+    {
+      "id": "CHIC-based",
+      "signs": [
+        "CH019",
+        "CH038?",
+        "CH042",
+        "CH052",
+        "CH062?",
+        "CH094?",
+        "CH095"
+      ],
+      "status": "SOURCE_EXTRACTED_FROM_DECORTE_TABLE_3",
+      "warning": "Decorte presents this as a CHIC-based sign-list whose justification depends on the debated relationship between Archanes and Cretan Hieroglyphic."
+    },
+    {
+      "id": "DECORTE-2018",
+      "inventory_summary": {
+        "phonographic_or_sequence_elements": "AS*1–AS*12",
+        "potential_sematographs": "AS**1–AS**8"
+      },
+      "status": "PARTIAL_SOURCE_EXTRACTION",
+      "source_location": "Tables 5-6 and Appendix I",
+      "warning": "Do not assign phonetic values or cognation from formal comparison; Decorte's Appendix II explicitly says comparison does not imply shared values or cognation."
+    }
+  ],
+  "next": "Extract Appendix I sign-by-sign inventory and Fig. 10 AS# object list with exact locators."
+}
