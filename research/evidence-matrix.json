@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0",
+  "release_target": "1.0.0",
+  "dimensions": [
+    "object_identity",
+    "authority_membership",
+    "museum_or_CMS_id",
+    "provenance",
+    "chronology",
+    "material",
+    "iconography",
+    "inscription_geometry",
+    "sign_inventory",
+    "formula_claim",
+    "source_locator",
+    "rights"
+  ],
+  "rule": "Corpus membership is an authority-attributed assertion, never an unlabelled project consensus."
+}
