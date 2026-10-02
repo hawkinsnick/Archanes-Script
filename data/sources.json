@@ -1,0 +1,23 @@
+{
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "id": "decorte-2018",
+      "role": "corpus_definition_witness",
+      "status": "PUBLIC_ARTICLE_ROUTE_CONFIRMED",
+      "claim_scope": "complete overview/redefinition of Archanes Script"
+    },
+    {
+      "id": "ferrara-montecchi-valerio-2021",
+      "role": "formula_reassessment_witness",
+      "status": "BIBLIOGRAPHIC_ROUTE_CONFIRMED",
+      "claim_scope": "reassesses origin, purpose, significance and reading of Archanes Formula"
+    },
+    {
+      "id": "braovic-et-al-2024",
+      "role": "computational_review",
+      "status": "OPEN_ACCESS",
+      "claim_scope": "treats Archanes script/formula as a distinct computational decipherment research object"
+    }
+  ]
+}
