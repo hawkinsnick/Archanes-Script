@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "authority": "Decorte 2018",
+  "claims": [
+    {
+      "scope": "AS#11–16",
+      "claim": "Knossos/Samothrace sealings form a homogeneous transitional subgroup with rounded/full-bodied signs closer to Cretan Hieroglyphic.",
+      "status": "AUTHORITY_MODEL"
+    },
+    {
+      "signs": [
+        "AS001",
+        "AS002"
+      ],
+      "claim": "On early seals often thin/elongated; on transitional sealings squatter and presented by Decorte as intermediate toward CH042/CH019.",
+      "status": "AUTHORITY_PALAEOGRAPHIC_ARGUMENT"
+    },
+    {
+      "object": "AS#15 / CHIC#137",
+      "claim": "Version of AS001/CH042 described as indistinguishable from later Cretan Hieroglyphic counterparts.",
+      "status": "AUTHORITY_PALAEOGRAPHIC_ARGUMENT"
+    },
+    {
+      "comparandum": "CMS II.2,217 / CHIC#292",
+      "membership": "NOT_DECORTE_ARCHANES",
+      "claim": "formula-bearing comparandum with AS001/CH042 form indistinguishable from later CH counterparts",
+      "status": "COMPARANDUM_ONLY"
+    }
+  ],
+  "guardrail": "These are Decorte's diachronic/palaeographic interpretations, not project-established evolutionary descent."
+}
