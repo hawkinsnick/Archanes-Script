@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0",
+  "authority": "Decorte 2018",
+  "outside_corpus_formula_bearers": [
+    {
+      "identity": "CMS VII,35",
+      "chic": "CHIC #205",
+      "decorte_membership": "EXCLUDED",
+      "reason": "formula present but object fails Decorte corpus criteria"
+    },
+    {
+      "identity": "CMS II.2,217",
+      "chic": "CHIC #292",
+      "decorte_membership": "EXCLUDED",
+      "reason": "formula present but object fails Decorte corpus criteria"
+    }
+  ],
+  "rule": "Formula occurrence and Archanes Script membership are separate authority-specific assertions."
+}
