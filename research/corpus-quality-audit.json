@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "authority": "Decorte 2018",
+  "checks": [
+    {
+      "check": "corpus denominator",
+      "result": "PASS",
+      "detail": "AS#01–AS#16 extracted from Table 8"
+    },
+    {
+      "check": "object identity metadata",
+      "result": "PASS_FOR_DECORTE_TABLE_8",
+      "detail": "CMS identity, CHIC where supplied, material/form/provenance/date encoded"
+    },
+    {
+      "check": "signary labels",
+      "result": "PASS_FOR_APPENDIX_I",
+      "detail": "authority-specific inventory encoded without phonetic promotion"
+    },
+    {
+      "check": "formula variants",
+      "result": "PASS_FOR_TABLE_9_AGGREGATES",
+      "detail": "seven sequence patterns encoded; object-face mapping still open"
+    },
+    {
+      "check": "cross-script comparison",
+      "result": "GUARDED",
+      "detail": "Appendix II warning preserved: formal comparison does not imply shared values or cognation"
+    },
+    {
+      "check": "authority independence",
+      "result": "GUARDED",
+      "detail": "CHIC-derived membership/sign labels are not counted as independent evidence merely when repeated by Decorte."
+    }
+  ],
+  "next_gates": [
+    "object/face occurrence matrix",
+    "later scholarship authority-delta register",
+    "CMS record reconciliation"
+  ]
+}
