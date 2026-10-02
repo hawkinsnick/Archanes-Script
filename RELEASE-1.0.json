@@ -1,0 +1,20 @@
+{
+  "release": "1.0.0",
+  "scope": "authority-union pre-expert research release",
+  "achieved": [
+    "competing corpus-definition model",
+    "object seed register",
+    "rights register",
+    "evidence matrix",
+    "expert-review packet",
+    "AI guardrails",
+    "hard CI"
+  ],
+  "open": [
+    "complete Decorte AS# extraction",
+    "full CMS/CHIC alias reconciliation",
+    "per-authority sign inventories",
+    "formula locator matrix"
+  ],
+  "claim": "1.0 is disagreement-preserving and does not assert a settled Archanes corpus or script relationship."
+}
