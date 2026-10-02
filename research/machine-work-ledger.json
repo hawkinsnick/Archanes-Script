@@ -4,17 +4,20 @@
   "items": [
     {
       "id": "ARC-PRE-001",
-      "status": "PARTIAL_SOURCE_ACCESS",
+      "status": "NEAR_COMPLETE_PRIMARY_EXTRACTION",
       "completed": [
         "union-corpus method",
-        "four source-attributed seed identities",
-        "competing authority models"
+        "Decorte denominator established at AS#01–AS#16",
+        "15/16 Decorte identities at least partially resolved",
+        "Yule 15-claimed/14-listed discrepancy encoded",
+        "CHIC seven-object subset extracted"
       ],
       "remaining": [
-        "complete Decorte AS-number list",
-        "objects added/removed by later authorities"
+        "resolve AS#10 exact identity from Fig. 10/Appendix",
+        "normalize Knossos/Samothrace catalogue identities",
+        "later-authority additions/removals"
       ],
-      "blocker": "Complete object table must be extracted from primary/open publication text with exact locators."
+      "blocker": "One Decorte identity remains inaccessible in current text rendering; figure/appendix extraction required."
     },
     {
       "id": "ARC-PRE-002",
