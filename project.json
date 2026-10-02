@@ -1,7 +1,7 @@
 {
   "name": "Archanes Script Corpus",
-  "version": "0.2.0",
-  "status": "CORPUS_BOUNDARY_RECONCILIATION_EVIDENCE_LAYER",
+  "version": "1.0.0",
+  "status": "PRE_EXPERT_RESEARCH_BASELINE_1_0",
   "canonical_records": 0,
   "principles": [
     "competing-corpus-definitions-preserved",
