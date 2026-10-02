@@ -1,0 +1,12 @@
+{
+  "name": "Archanes Script Corpus",
+  "version": "0.1.0",
+  "status": "CORPUS_BOUNDARY_RECONCILIATION",
+  "canonical_records": 0,
+  "principles": [
+    "competing-corpus-definitions-preserved",
+    "object-first",
+    "iconography-separated-from-writing-assertions",
+    "no-silent-merge-with-CH-or-Linear-A"
+  ]
+}
