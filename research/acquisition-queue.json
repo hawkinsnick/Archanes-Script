@@ -1,0 +1,25 @@
+{
+  "schema_version": "1.0",
+  "priority": [
+    {
+      "id": "ARC-ACQ-001",
+      "target": "Decorte 2018 complete AS# corpus",
+      "purpose": "extract authority-specific object list, CMS/CHIC aliases and sign-list with exact locators"
+    },
+    {
+      "id": "ARC-ACQ-002",
+      "target": "Ferrara/Montecchi/Valério 2021",
+      "purpose": "encode competing formula/corpus model and object evidence"
+    },
+    {
+      "id": "ARC-ACQ-003",
+      "target": "CMS records",
+      "purpose": "reconcile object identity, material, dimensions, provenance and imagery without redistributing protected images"
+    },
+    {
+      "id": "ARC-ACQ-004",
+      "target": "2026 Cretan Hieroglyphic synthesis",
+      "purpose": "record current competing treatment and core seal set"
+    }
+  ]
+}
