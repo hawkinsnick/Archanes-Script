@@ -4,20 +4,16 @@
   "items": [
     {
       "id": "ARC-PRE-001",
-      "status": "NEAR_COMPLETE_PRIMARY_EXTRACTION",
+      "status": "COMPLETE_FOR_DECORTE_2018",
       "completed": [
-        "union-corpus method",
-        "Decorte denominator established at AS#01–AS#16",
-        "15/16 Decorte identities at least partially resolved",
-        "Yule 15-claimed/14-listed discrepancy encoded",
-        "CHIC seven-object subset extracted"
+        "Decorte AS#01–AS#16 full denominator and Table 8 object metadata extracted",
+        "Yule denominator discrepancy encoded",
+        "CHIC relationship retained per object"
       ],
       "remaining": [
-        "resolve AS#10 exact identity from Fig. 10/Appendix",
-        "normalize Knossos/Samothrace catalogue identities",
-        "later-authority additions/removals"
+        "later-authority additions/removals if documented"
       ],
-      "blocker": "One Decorte identity remains inaccessible in current text rendering; figure/appendix extraction required."
+      "blocker": null
     },
     {
       "id": "ARC-PRE-002",
@@ -45,14 +41,16 @@
     },
     {
       "id": "ARC-PRE-004",
-      "status": "SOURCE_ACCESS_REQUIRED",
+      "status": "AUTHORITY_VARIANTS_EXTRACTED",
       "completed": [
-        "formula assertion model"
+        "Decorte Table 9 seven formula-sequence patterns and occurrence counts",
+        "separate-face structure preserved",
+        "invariant-five-sign formulation explicitly quarantined"
       ],
       "remaining": [
-        "occurrence-by-occurrence locator matrix"
+        "map each pattern to individual object/face where source permits"
       ],
-      "blocker": "Requires full formula publication extraction."
+      "blocker": "Table 9 is aggregate; object-level occurrence mapping requires figure/appendix reconciliation."
     }
   ]
 }
