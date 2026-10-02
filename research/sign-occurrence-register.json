@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "authority": "Decorte 2018",
-  "method": "Text-explicit occurrences only; no new identification inferred from figure inspection.",
+  "method": "Text-explicit occurrences and explicit Decorte template assignments only; no project-created sign identification from images.",
   "records": [
     {
       "object": "AS#04 / MO,S35 / CHIC#313",
@@ -24,35 +24,63 @@
     },
     {
       "object": "AS#07 / CMS II.2,215",
-      "face": "a",
+      "face": "a (Decorte reorientation/template)",
       "signs": [
         "AS001",
+        "ASd001",
+        "AS013",
+        "AS017",
         "AS002"
       ],
-      "certainty": "TEXT_IDENTIFICATION_WITH_TENTATIVE_COMPONENTS",
-      "note": "AS001 discerned from photograph; AS002 independently strengthened by reorientation discussion."
+      "sematographs": [
+        "AS*0",
+        "AS*4a"
+      ],
+      "certainty": "DECORTE_TEMPLATE_ASSERTION",
+      "note": "Decorte argues an identical five-sign sequence plus two sematographic elements across all three; individual recognition includes tentative components strengthened by template comparison."
     },
     {
       "object": "AS#08 / CMS II.2,311",
-      "face": "a",
+      "face": "a (Decorte reorientation/template)",
       "signs": [
-        "AS002",
-        "AS001?",
-        "AS013"
+        "AS001",
+        "ASd001",
+        "AS013",
+        "AS017",
+        "AS002"
       ],
-      "certainty": "MIXED_EXPLICIT_TENTATIVE",
-      "note": "Split top of AS002 visible in photograph; detached blades of AS001 tentative; AS013 recognized in subgroup."
+      "sematographs": [
+        "AS*0",
+        "AS*4a"
+      ],
+      "certainty": "DECORTE_TEMPLATE_ASSERTION",
+      "note": "Decorte argues an identical five-sign sequence plus two sematographic elements across all three; individual recognition includes tentative components strengthened by template comparison."
     },
     {
       "object": "AS#09 / CMS VS1B,317",
-      "face": "a",
+      "face": "a (Decorte reorientation/template)",
       "signs": [
-        "AS002",
-        "AS001?",
-        "AS013"
+        "AS001",
+        "ASd001",
+        "AS013",
+        "AS017",
+        "AS002"
       ],
-      "certainty": "MIXED_EXPLICIT_TENTATIVE",
-      "note": "AS002 clear/top-right; CMS Arachne annotates CH019?; AS001 blades tentative; AS013 recognized in subgroup."
+      "sematographs": [
+        "AS*0",
+        "AS*4a"
+      ],
+      "certainty": "DECORTE_TEMPLATE_ASSERTION",
+      "note": "Decorte argues an identical five-sign sequence plus two sematographic elements across all three; individual recognition includes tentative components strengthened by template comparison."
+    },
+    {
+      "object": "AS#16 / CMS VS3,343",
+      "face": "unspecified in accessible prose",
+      "signs": [
+        "AS002"
+      ],
+      "certainty": "EXPLICIT_TEXT_CLEAR",
+      "note": "Decorte states AS#16 is absent from CHIC despite a very clear AS002."
     }
   ],
   "guardrails": [
