@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0",
+  "records": [
+    {
+      "id": "DECORTE-2018",
+      "title": "The First ‘European’ Writing: Redefining the Archanes Script",
+      "journal": "Oxford Journal of Archaeology",
+      "volume": 37,
+      "pages": "341-372",
+      "doi": "10.1111/ojoa.12152",
+      "access": "OPEN_ACCESS_ARTICLE_ROUTE",
+      "project_role": "primary authority for expanded Archanes Script corpus/sign-list extraction",
+      "extraction_status": "ARTICLE_IDENTIFIED_FULL_TABLE_EXTRACTION_PENDING"
+    }
+  ]
+}
