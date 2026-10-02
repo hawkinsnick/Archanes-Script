@@ -14,5 +14,10 @@
     "adjudicate competing corpus/script models",
     "palaeographic identity where authorities disagree",
     "linguistic/function claims"
-  ]
+  ],
+  "release_candidate": "2.0.0-rc.1",
+  "stop_assessment": {
+    "machine_work_remaining": true,
+    "external_wall": "Decorte baseline is deeply extracted; full object-face matrix now depends increasingly on figure/CMS record reconciliation and later-authority source extraction."
+  }
 }
