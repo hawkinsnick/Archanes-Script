@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "required_authorities": [
+    {
+      "role": "project",
+      "path": "project.json",
+      "required": true
+    },
+    {
+      "role": "sources",
+      "path": "data/sources.json",
+      "required": true
+    },
+    {
+      "role": "pre_expert_maximum",
+      "path": "research/pre-expert-maximum.json",
+      "required": true
+    }
+  ],
+  "behavioral_gates": [
+    "Corpus membership is authority-attributed.",
+    "Visual resemblance is not sign identity.",
+    "Iconography is not automatically writing.",
+    "No phonetic projection without explicit source attribution."
+  ]
+}
