@@ -1,0 +1,21 @@
+{
+  "schema_version": "1.0",
+  "source": "Annual of the British School at Athens article on Early Bronze Age seal impressions from Therasia",
+  "status": "COMPARANDUM_NOT_CORPUS_MEMBER",
+  "claims": [
+    {
+      "sign": "A3",
+      "comparison": "symbol appears on Minoan seals as decorative motif and with Archanes Script signs; Decorte Appendix I AS*13 cited",
+      "effect": "Adds later external comparandum to AS*13; does not expand Archanes corpus."
+    },
+    {
+      "sign": "A5",
+      "comparison": "partially preserved bifoliate motif compared with Prepalatial and Cretan Hieroglyphic contexts",
+      "effect": "Contextual comparative evidence only."
+    }
+  ],
+  "guardrails": [
+    "Therasia material is not admitted to the Archanes Script corpus on formal resemblance alone.",
+    "Cross-Aegean motif comparison does not establish writing, sign identity, phonetic value, or transmission."
+  ]
+}
