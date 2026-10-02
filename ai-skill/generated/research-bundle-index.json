@@ -1,0 +1,25 @@
+{
+  "schema_version": "1.0",
+  "project": "Archanes-Script",
+  "skill_version": "1.8.0",
+  "milestone": "DECORTE_BASELINE_PLUS_OCCURRENCE_RECONCILIATION",
+  "authoritative_inputs": [
+    "research/corpus-definition-register.json",
+    "research/decorte-2018-corpus-register.json",
+    "research/signary-authority-register.json",
+    "research/sign-occurrence-register.json",
+    "research/formula-register.json",
+    "research/formula-comparanda.json",
+    "research/diachronic-subgroups.json",
+    "research/authority-delta-register.json",
+    "research/corpus-quality-audit.json",
+    "research/machine-work-ledger.json"
+  ],
+  "guardrails": [
+    "Authority-specific corpus membership is not project consensus.",
+    "Tentative sign identities remain tentative.",
+    "Formula-bearing does not imply Archanes corpus membership.",
+    "Formal cross-script similarity does not imply cognation or shared phonetic value."
+  ],
+  "generated_note": "Index points to repository evidence; it does not duplicate copyrighted source text."
+}
