@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0",
+  "milestone": "POST_1_0_MACHINE_MAXIMUM",
+  "items": [
+    {
+      "id": "ARC-PRE-001",
+      "status": "PARTIAL_SOURCE_ACCESS",
+      "completed": [
+        "union-corpus method",
+        "four source-attributed seed identities",
+        "competing authority models"
+      ],
+      "remaining": [
+        "complete Decorte AS-number list",
+        "objects added/removed by later authorities"
+      ],
+      "blocker": "Complete object table must be extracted from primary/open publication text with exact locators."
+    },
+    {
+      "id": "ARC-PRE-002",
+      "status": "SOURCE_ACCESS_REQUIRED",
+      "completed": [
+        "authority-specific non-collapse rule"
+      ],
+      "remaining": [
+        "Decorte sign inventory",
+        "other authority inventories",
+        "concordance claims"
+      ],
+      "blocker": "Requires sign tables/figures with exact source locators."
+    },
+    {
+      "id": "ARC-PRE-003",
+      "status": "PARTIAL",
+      "completed": [
+        "CMS/CHIC identity fields defined"
+      ],
+      "remaining": [
+        "museum/CMS metadata for full union set"
+      ],
+      "blocker": "Depends on complete union list and catalogue reconciliation."
+    },
+    {
+      "id": "ARC-PRE-004",
+      "status": "SOURCE_ACCESS_REQUIRED",
+      "completed": [
+        "formula assertion model"
+      ],
+      "remaining": [
+        "occurrence-by-occurrence locator matrix"
+      ],
+      "blocker": "Requires full formula publication extraction."
+    }
+  ]
+}
