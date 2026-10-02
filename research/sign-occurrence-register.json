@@ -1,0 +1,64 @@
+{
+  "schema_version": "1.0",
+  "authority": "Decorte 2018",
+  "method": "Text-explicit occurrences only; no new identification inferred from figure inspection.",
+  "records": [
+    {
+      "object": "AS#04 / MO,S35 / CHIC#313",
+      "face": "d",
+      "signs": [
+        "AS001",
+        "AS002",
+        "AS013"
+      ],
+      "certainty": "EXPLICIT_TEXT",
+      "note": "AS013 explicitly contrasted with AS003 on face c."
+    },
+    {
+      "object": "AS#04 / MO,S35 / CHIC#313",
+      "face": "c",
+      "signs": [
+        "AS003"
+      ],
+      "certainty": "EXPLICIT_TEXT"
+    },
+    {
+      "object": "AS#07 / CMS II.2,215",
+      "face": "a",
+      "signs": [
+        "AS001",
+        "AS002"
+      ],
+      "certainty": "TEXT_IDENTIFICATION_WITH_TENTATIVE_COMPONENTS",
+      "note": "AS001 discerned from photograph; AS002 independently strengthened by reorientation discussion."
+    },
+    {
+      "object": "AS#08 / CMS II.2,311",
+      "face": "a",
+      "signs": [
+        "AS002",
+        "AS001?",
+        "AS013"
+      ],
+      "certainty": "MIXED_EXPLICIT_TENTATIVE",
+      "note": "Split top of AS002 visible in photograph; detached blades of AS001 tentative; AS013 recognized in subgroup."
+    },
+    {
+      "object": "AS#09 / CMS VS1B,317",
+      "face": "a",
+      "signs": [
+        "AS002",
+        "AS001?",
+        "AS013"
+      ],
+      "certainty": "MIXED_EXPLICIT_TENTATIVE",
+      "note": "AS002 clear/top-right; CMS Arachne annotates CH019?; AS001 blades tentative; AS013 recognized in subgroup."
+    }
+  ],
+  "guardrails": [
+    "Question marks are evidence, not formatting: tentative identifications must remain tentative.",
+    "CMS/CHIC non-writing classifications for AS#07–09 remain preserved as competing authority states.",
+    "Occurrence extraction does not imply phonetic value."
+  ],
+  "status": "PARTIAL_OBJECT_FACE_MATRIX_FROM_TEXT"
+}
