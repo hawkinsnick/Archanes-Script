@@ -17,7 +17,7 @@
     },
     {
       "id": "ARC-PRE-002",
-      "status": "DECORTE_SIGNARY_COMPLETE",
+      "status": "OCCURRENCE_MATRIX_STARTED",
       "completed": [
         "Decorte Appendix I complete label inventory",
         "18 linear-sequence labels including variants",
@@ -25,13 +25,16 @@
         "14 class-2 sematograph labels",
         "3 unclear marks",
         "CHIC-based seven-sign comparison list",
-        "formal-comparison non-cognation guardrail"
+        "formal-comparison non-cognation guardrail",
+        "text-explicit sign occurrences encoded for AS#04 and AS#07–09",
+        "certainty preserved per occurrence"
       ],
       "remaining": [
-        "occurrence-level sign-to-object/face matrix",
+        "extract remaining explicit occurrences from article text/tables",
+        "face-level mapping for full AS#01–16 where source permits",
         "later-authority signary comparison"
       ],
-      "blocker": "Occurrence mapping requires figure-by-figure extraction; later comparison requires additional authority sources."
+      "blocker": "Full face matrix depends partly on publication figures/CMS records; no inference from images without authoritative textual support."
     },
     {
       "id": "ARC-PRE-003",
