@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "status": "SOURCE_ATTRIBUTED_SEEDS",
+  "objects": [
+    {
+      "id": "CMS-II.1-391",
+      "source_roles": [
+        "Decorte 2018",
+        "later Archanes scholarship"
+      ],
+      "provenance": "Archanes/Phourni",
+      "admission": "SOURCE_ATTRIBUTED_CORE_SEED"
+    },
+    {
+      "id": "CMS-II.1-393",
+      "source_roles": [
+        "Decorte 2018"
+      ],
+      "provenance": "Archanes/Phourni",
+      "admission": "SOURCE_ATTRIBUTED_CORE_SEED"
+    },
+    {
+      "id": "CMS-II.1-394",
+      "source_roles": [
+        "Decorte 2018"
+      ],
+      "provenance": "Archanes/Phourni",
+      "admission": "SOURCE_ATTRIBUTED_CORE_SEED"
+    },
+    {
+      "id": "CHIC-313/CMS-MO-S35",
+      "source_roles": [
+        "Decorte 2018"
+      ],
+      "provenance": "Moni Odigitria",
+      "admission": "SOURCE_ATTRIBUTED_SEED"
+    }
+  ],
+  "warning": "This seed register is not the complete Archanes corpus. Additional Knossos, Samothrace and other candidates require object-level reconciliation from the cited publication."
+}
