@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0",
+  "authorities": [
+    {
+      "id": "decorte-2018",
+      "position": "expanded_archanes_script",
+      "evidence": "Systematic search of Bronze Age Cretan glyptic; reports AS-prefixed corpus and complete sign-list, while maintaining a broader Archanes Script Group of possible future additions.",
+      "project_treatment": "authority-specific membership only"
+    },
+    {
+      "id": "ferrara-montecchi-valerio-2021",
+      "position": "cretan_hieroglyphic_milieu",
+      "evidence": "Reassesses formula and argues for strong connection with Cretan Hieroglyphic milieu rather than treating it straightforwardly as a separate script.",
+      "project_treatment": "competing model, not normalized away"
+    },
+    {
+      "id": "jasink-weingarten-2026",
+      "position": "true_script_antecedent",
+      "evidence": "Explicitly agrees with Decorte that Archanes represents a true script and discusses a core group of early seals.",
+      "project_treatment": "competing model, source-attributed"
+    }
+  ],
+  "project_consensus": null
+}
