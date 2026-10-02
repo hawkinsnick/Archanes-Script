@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0",
+  "policy": "Metadata, bibliographic facts and project-authored reconciliation may be recorded. Images, drawings and substantial source transcription require source-specific reuse authority.",
+  "resources": [
+    {
+      "resource": "Decorte 2018",
+      "status": "PUBLIC_RESEARCH_ROUTE_CONFIRMED_REUSE_REVIEW_REQUIRED"
+    },
+    {
+      "resource": "Ferrara/Montecchi/Valério 2021",
+      "status": "BIBLIOGRAPHIC_ROUTE_REUSE_REVIEW_REQUIRED"
+    },
+    {
+      "resource": "CMS object records/images",
+      "status": "SOURCE_SPECIFIC_TERMS_REQUIRED"
+    }
+  ]
+}
