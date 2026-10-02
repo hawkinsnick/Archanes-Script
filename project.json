@@ -1,7 +1,7 @@
 {
   "name": "Archanes Script Corpus",
-  "version": "1.8.0",
-  "status": "POST_1_0_MACHINE_MAXIMUM_ACTIVE",
+  "version": "1.9.0",
+  "status": "SOURCE_SATURATION_AND_RECONCILIATION",
   "canonical_records": 0,
   "principles": [
     "competing-corpus-definitions-preserved",
