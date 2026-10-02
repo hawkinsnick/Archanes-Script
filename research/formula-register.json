@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "authority": "Decorte 2018",
+  "source_location": "Table 9",
+  "interpretive_warning": "Decorte argues the traditional five-sign 'Archanes Formula' should not be represented as one invariant sequence; preserve separate faces and variants.",
+  "sequences": [
+    {
+      "sequence": "[AS001, AS002, ASd002, ASd003]",
+      "count": 1
+    },
+    {
+      "sequence": "[AS001, AS002 || AS002, …]",
+      "count": 1
+    },
+    {
+      "sequence": "[AS001, AS002]",
+      "count": 2
+    },
+    {
+      "sequence": "[AS001, AS002, AS**x]",
+      "count": 2
+    },
+    {
+      "sequence": "[AS001, AS002, AS**x], [AS002, AS003, AS004]",
+      "count": 2
+    },
+    {
+      "sequence": "[AS001, AS002], [AS002, AS003, AS016], [AS015, AS014]",
+      "count": 1
+    },
+    {
+      "sequence": "[AS001, AS002], [AS002, AS005, AS006, AS005], [AS002, AS003, AS004]",
+      "count": 1
+    }
+  ],
+  "status": "SOURCE_EXTRACTED_AUTHORITY_SPECIFIC"
+}
