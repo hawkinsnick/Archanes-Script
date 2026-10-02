@@ -17,14 +17,80 @@
     },
     {
       "id": "DECORTE-2018",
-      "inventory_summary": {
-        "phonographic_or_sequence_elements": "AS*1–AS*12",
-        "potential_sematographs": "AS**1–AS**8"
+      "status": "COMPLETE_LABEL_INVENTORY_EXTRACTED",
+      "source_location": "Appendix I; Tables 4–7",
+      "categories": {
+        "linear_sequence": [
+          "AS001",
+          "AS002",
+          "AS003",
+          "AS004a",
+          "AS004b",
+          "AS005",
+          "AS006",
+          "AS007",
+          "AS008",
+          "AS009",
+          "AS010",
+          "AS011",
+          "AS012",
+          "AS013",
+          "AS014",
+          "AS015",
+          "AS016",
+          "AS017"
+        ],
+        "class_1_sematographs": [
+          "AS*0",
+          "AS*00",
+          "AS*1a",
+          "AS*1b",
+          "AS*2",
+          "AS*2b",
+          "AS*3",
+          "AS*4a",
+          "AS*4b",
+          "AS*5",
+          "AS*6",
+          "AS*7",
+          "AS*8a",
+          "AS*8b",
+          "AS*8c",
+          "AS*9",
+          "AS*10",
+          "AS*11",
+          "AS*12",
+          "AS*13",
+          "AS*14"
+        ],
+        "class_2_sematographs": [
+          "AS**1a",
+          "AS**1b",
+          "AS**1c",
+          "AS**1d",
+          "AS**1e",
+          "AS**2",
+          "AS**3",
+          "AS**4a",
+          "AS**4b",
+          "AS**5",
+          "AS**6",
+          "AS**7",
+          "AS**8",
+          "AS**9"
+        ],
+        "unclear": [
+          "ASd001",
+          "ASd002 (=AS013?)",
+          "ASd003"
+        ]
       },
-      "status": "PARTIAL_SOURCE_EXTRACTION",
-      "source_location": "Tables 5-6 and Appendix I",
-      "warning": "Do not assign phonetic values or cognation from formal comparison; Decorte's Appendix II explicitly says comparison does not imply shared values or cognation."
+      "interpretive_guardrails": [
+        "Labels encode Decorte's categories, not project-accepted graphemic status.",
+        "Appendix II formal comparisons do not imply shared values or cognation.",
+        "Questioned identity ASd002=AS013 remains questioned."
+      ]
     }
   ],
-  "next": "Extract Appendix I sign-by-sign inventory and Fig. 10 AS# object list with exact locators."
+  "next": "Map sign occurrences to AS# objects/faces from figures/tables; compare later authorities without collapsing inventories."
 }
