@@ -37,5 +37,17 @@
     "object/face occurrence matrix",
     "later scholarship authority-delta register",
     "CMS record reconciliation"
+  ],
+  "additional_findings": [
+    {
+      "finding": "Formula-bearing does not equal corpus membership",
+      "evidence": "Decorte explicitly names CMS VII,35/CHIC#205 and CMS II.2,217/CHIC#292 as formula-bearing but excluded from his Archanes Script under his writing criteria.",
+      "project_action": "Register as formula comparanda outside Decorte corpus."
+    },
+    {
+      "finding": "Formula is two independent sign-groups rather than invariant five-sign sequence",
+      "evidence": "Decorte states AS001-AS002 and AS002-AS003-AS004 never occur sequenced together or even on one seal-face within his admitted corpus.",
+      "project_action": "Prevent normalization into a five-sign canonical string."
+    }
   ]
 }
