@@ -5,83 +5,147 @@
   "records": [
     {
       "as_id": "AS#01",
-      "identity": "CMS XI,73",
-      "chic": "CHIC #201"
+      "identity": "CMS II.1,393",
+      "chic": "CHIC #252",
+      "material": "Bone",
+      "form": "Gable",
+      "provenance": "Archanes, Building 6 Room 3",
+      "date": "EM III–MM IA"
     },
     {
       "as_id": "AS#02",
       "identity": "CMS II.1,394",
-      "chic": "CHIC #202"
+      "chic": "CHIC #202",
+      "material": "Bone",
+      "form": "Disc",
+      "provenance": "Archanes, Building 6 Room 3",
+      "date": "EM III–MM IA"
     },
     {
       "as_id": "AS#03",
       "identity": "CMS II.1,391",
-      "chic": "CHIC #315"
+      "chic": "CHIC #315",
+      "material": "Bone",
+      "form": "Baton",
+      "provenance": "Archanes, Building 6 Room 3",
+      "date": "EM III–MM IA"
     },
     {
       "as_id": "AS#04",
       "identity": "MO,S35",
-      "chic": "CHIC #313"
+      "chic": "CHIC #313",
+      "material": "Bone",
+      "form": "Cube",
+      "provenance": "Moni Odigitria, Ossuary",
+      "date": "EM III–MM IA"
     },
     {
       "as_id": "AS#05",
       "identity": "CMS VI,13",
-      "chic": "CHIC #203"
+      "chic": "CHIC #203",
+      "material": "Soft stone (steatite)",
+      "form": "Discoid",
+      "provenance": "Unknown; suggested Knossos",
+      "date": "EM III–MM IA"
     },
     {
       "as_id": "AS#06",
       "identity": "CMS VI,14",
-      "chic": "CHIC #251"
+      "chic": "CHIC #251",
+      "material": "Soft stone (steatite)",
+      "form": "Gable",
+      "provenance": "Unknown; suggested Phournoi",
+      "date": "MM I"
     },
     {
       "as_id": "AS#07",
       "identity": "CMS II.2,215",
-      "chic": null
+      "chic": null,
+      "material": "Soft stone (steatite)",
+      "form": "Gable",
+      "provenance": "Unknown; suggested Sampas",
+      "date": "MM I"
     },
     {
       "as_id": "AS#08",
       "identity": "CMS II.2,311",
-      "chic": null
+      "chic": null,
+      "material": "Soft stone (steatite)",
+      "form": "Gable",
+      "provenance": "Unknown",
+      "date": "MM I"
     },
     {
       "as_id": "AS#09",
       "identity": "CMS VS1B,317",
-      "chic": null
+      "chic": null,
+      "material": "Soft stone (steatite)",
+      "form": "Conoid Button",
+      "provenance": "Pagkalochori, Chamber Tomb",
+      "date": "MM I; LM III context"
     },
     {
       "as_id": "AS#10",
-      "identity": "SOURCE_EXTRACTION_PENDING",
-      "chic": null
+      "identity": "CMS XI,73",
+      "chic": "CHIC #201",
+      "material": "Soft stone (steatite)",
+      "form": "Cylinder",
+      "provenance": "Unknown",
+      "date": "MM I–II"
     },
     {
       "as_id": "AS#11",
-      "identity": "Knossos sealing",
-      "chic": "CHIC-listed Archanes Formula"
+      "identity": "CMS II.8,29",
+      "chic": "CHIC #179",
+      "material": "Sealing [flat-based]",
+      "form": "rectangular",
+      "provenance": "Knossos",
+      "date": "MM I–II"
     },
     {
       "as_id": "AS#12",
-      "identity": "Knossos sealing",
-      "chic": "CHIC-listed Archanes Formula"
+      "identity": "CMS II.8,56",
+      "chic": "CHIC #134",
+      "material": "Sealing [single-hole hanging]",
+      "form": "rectangular",
+      "provenance": "Knossos, South-East Pillar Room",
+      "date": "MM I–II"
     },
     {
       "as_id": "AS#13",
-      "identity": "Samothrace sealing",
-      "chic": "CHIC-listed Archanes Formula"
+      "identity": "CMS VS1B,325",
+      "chic": "CHIC #136",
+      "material": "Sealing [roundel]",
+      "form": "rectangular",
+      "provenance": "Mikro Vouni, Samothrace",
+      "date": "MM II"
     },
     {
       "as_id": "AS#14",
-      "identity": "Samothrace sealing",
-      "chic": "CHIC-listed Archanes Formula"
+      "identity": "CMS VS1B,326",
+      "chic": "CHIC #135",
+      "material": "Sealing [roundel]",
+      "form": "rectangular",
+      "provenance": "Mikro Vouni, Samothrace",
+      "date": "MM II"
     },
     {
       "as_id": "AS#15",
-      "identity": "Samothrace sealing",
-      "chic": "CHIC-listed Archanes Formula"
+      "identity": "CMS VS1B,327",
+      "chic": "CHIC #137",
+      "material": "Sealing [nodulus]",
+      "form": "rectangular",
+      "provenance": "Mikro Vouni, Samothrace",
+      "date": "MM II"
     },
     {
       "as_id": "AS#16",
       "identity": "CMS VS3,343",
-      "chic": null
+      "chic": null,
+      "material": "Sealing [nodulus]",
+      "form": "rectangular",
+      "provenance": "Mikro Vouni, Samothrace",
+      "date": "MM II"
     }
   ],
   "source_notes": [
@@ -89,5 +153,6 @@
     "AS#11-12 are Knossos sealings; AS#13-15 Samothrace sealings; AS#16 CMS VS3,343 is absent from CHIC.",
     "AS#07, #08 and #09 are accepted by Decorte despite CHIC/CMS writing-status differences."
   ],
-  "completeness": "15/16 identities at least partially resolved from accessible text; AS#10 requires figure/appendix extraction."
+  "completeness": "16/16 Decorte 2018 Table 8 identities and core metadata extracted.",
+  "source_location": "Decorte 2018 Table 8"
 }
