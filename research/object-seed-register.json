@@ -9,7 +9,11 @@
         "later Archanes scholarship"
       ],
       "provenance": "Archanes/Phourni",
-      "admission": "SOURCE_ATTRIBUTED_CORE_SEED"
+      "admission": "SOURCE_ATTRIBUTED_CORE_SEED",
+      "material": "bone",
+      "form": "triple stacked cube",
+      "faces": 14,
+      "modern_source": "Weingarten 2024 citing Decorte 2018/CMS"
     },
     {
       "id": "CMS-II.1-393",
@@ -17,7 +21,10 @@
         "Decorte 2018"
       ],
       "provenance": "Archanes/Phourni",
-      "admission": "SOURCE_ATTRIBUTED_CORE_SEED"
+      "admission": "SOURCE_ATTRIBUTED_CORE_SEED",
+      "material": "bone",
+      "form": "three-sided gable",
+      "modern_source": "Weingarten 2024"
     },
     {
       "id": "CMS-II.1-394",
@@ -25,7 +32,10 @@
         "Decorte 2018"
       ],
       "provenance": "Archanes/Phourni",
-      "admission": "SOURCE_ATTRIBUTED_CORE_SEED"
+      "admission": "SOURCE_ATTRIBUTED_CORE_SEED",
+      "material": "bone",
+      "form": "two-sided disc",
+      "modern_source": "Weingarten 2024"
     },
     {
       "id": "CHIC-313/CMS-MO-S35",
@@ -36,5 +46,17 @@
       "admission": "SOURCE_ATTRIBUTED_SEED"
     }
   ],
-  "warning": "This seed register is not the complete Archanes corpus. Additional Knossos, Samothrace and other candidates require object-level reconciliation from the cited publication."
+  "warning": "This seed register is not the complete Archanes corpus. Additional Knossos, Samothrace and other candidates require object-level reconciliation from the cited publication.",
+  "authority_denominators": {
+    "yule_1980": {
+      "claimed": 15,
+      "actually_listed": 14,
+      "status": "SOURCE_DOCUMENTED_DISCREPANCY",
+      "note": "Decorte reports Yule claimed 15 but listed 14; possible duplicated CS 95 reference or omitted CMS II,215."
+    },
+    "decorte_2018": {
+      "status": "SYSTEMATIC_REDEFINED_CORPUS",
+      "extraction": "PENDING_FULL_FIG10_OBJECT_LIST"
+    }
+  }
 }
