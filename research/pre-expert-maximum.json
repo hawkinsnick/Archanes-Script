@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "target": "PRE_EXPERT_MAXIMUM",
+  "established": [
+    {
+      "gate": "corpus_boundary_disagreement",
+      "status": "EXPLICIT"
+    },
+    {
+      "gate": "canonical_admission",
+      "status": "SEALED",
+      "records": 0
+    }
+  ],
+  "remaining_nonexpert_work": [
+    {
+      "id": "ARC-PRE-001",
+      "scope": "candidate documents",
+      "action": "Build union register of every object/document assigned to Archanes by identified authorities, retaining authority-specific membership."
+    },
+    {
+      "id": "ARC-PRE-002",
+      "scope": "signary",
+      "action": "Encode authority-specific sign inventories and proposed correspondences without merging them."
+    },
+    {
+      "id": "ARC-PRE-003",
+      "scope": "objects",
+      "action": "Reconcile museum/excavation IDs, provenance, chronology, material, iconography and inscription geometry."
+    },
+    {
+      "id": "ARC-PRE-004",
+      "scope": "formula",
+      "action": "Encode occurrences/segmentation claims with exact source locators and uncertainty."
+    }
+  ],
+  "human_only_boundary": [
+    {
+      "id": "ARC-HUM-001",
+      "decision": "adjudicate corpus membership where authorities disagree"
+    },
+    {
+      "id": "ARC-HUM-002",
+      "decision": "adjudicate sign identity and palaeographic relationship to Cretan Hieroglyphic/Linear A"
+    },
+    {
+      "id": "ARC-HUM-003",
+      "decision": "adjudicate formula segmentation/function/reading"
+    }
+  ],
+  "completion_rule": "Pre-expert maximum requires an authority-attributed union corpus, not a project-invented consensus corpus."
+}
