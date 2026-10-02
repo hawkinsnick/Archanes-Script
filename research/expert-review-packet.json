@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0",
+  "status": "DEFERRED_UNTIL_MACHINE_RECONCILIATION_MAXIMUM",
+  "future_questions": [
+    "which competing corpus-membership model is best supported",
+    "which sign correspondences are palaeographically defensible",
+    "whether formula segmentations/functions withstand specialist review"
+  ],
+  "machine_work_remaining": [
+    "complete authority union object list",
+    "reconcile CMS/CHIC aliases",
+    "encode per-authority sign inventories",
+    "attach exact source locators"
+  ]
+}
