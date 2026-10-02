@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0",
+  "project": "Archanes-Script",
+  "state": "POST_1_0_MACHINE_MAXIMUM_ACTIVE",
+  "rule": "A gate closes only when machine-resolvable work is complete or a concrete source/access/human-judgment blocker is named.",
+  "release_policy": "Dot releases are internal checkpoints; work continues across them without requesting approval.",
+  "remaining_machine_priority": [
+    "continue text-explicit object/face occurrence extraction",
+    "CMS object-record reconciliation",
+    "extract later-authority deltas",
+    "prepare narrow expert questions only after source exhaustion"
+  ],
+  "human_only": [
+    "adjudicate competing corpus/script models",
+    "palaeographic identity where authorities disagree",
+    "linguistic/function claims"
+  ]
+}
