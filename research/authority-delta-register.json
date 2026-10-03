@@ -13,6 +13,12 @@
       "position": "Treats Archanes as a true script/antecedent in discussion of core early seals.",
       "delta_type": "SCRIPT_STATUS_AND_HISTORICAL_MODEL",
       "project_rule": "Keep as competing scholarly model; no project consensus."
+    },
+    {
+      "id": "VALERIO-2024",
+      "position": "Later Cretan Hieroglyphic treatment provides graph-level face strings and object metadata for six early seals.",
+      "delta_type": "OBJECT_FACE_GRAPH_CROSSWALK",
+      "project_rule": "Compare to Decorte AS occurrence claims as authority-specific mappings; preserve uncertainty and do not infer phonetic equivalence."
     }
   ],
   "baseline_complete": {
@@ -21,5 +27,5 @@
     "appendix1_signary": true,
     "table9_formula_patterns": true
   },
-  "next": "Extract object-level additions/removals or reinterpretations from comparative authorities when explicit."
+  "next": "Expand object-level authority deltas using explicit later-source tables/claims; CMS direct object-record reconciliation remains separate."
 }
