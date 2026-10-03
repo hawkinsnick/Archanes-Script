@@ -1,0 +1,86 @@
+{
+  "schema_version": "1.0",
+  "authority": "Miguel Valério, Cretan Hieroglyphic chapter, 2024",
+  "source_role": "LATER_SCHOLARLY_OBJECT_FACE_CROSSWALK",
+  "records": [
+    {
+      "decorte": "AS#02",
+      "cms": "CMS II.1,394",
+      "chic": "#202",
+      "provenance": "Archanes/Phourni",
+      "material_shape": "bone disc",
+      "graphs": {
+        "alpha": "042-019",
+        "beta": "019-095-052"
+      }
+    },
+    {
+      "decorte": "AS#05",
+      "cms": "CMS VI,13",
+      "chic": "#203",
+      "provenance": "Knossos",
+      "material_shape": "steatite discoid",
+      "graphs": {
+        "alpha": "042-019",
+        "beta": "019-095-052"
+      }
+    },
+    {
+      "decorte": "AS#06",
+      "cms": "CMS VI,14",
+      "chic": "#251",
+      "provenance": "Archanes/Phourni",
+      "material_shape": "steatite 3-sided prism",
+      "graphs": {
+        "alpha": "019-095-052 (last two uncertain in source typography)",
+        "beta": "042-019",
+        "gamma": "094?-038? (uncertain)"
+      }
+    },
+    {
+      "decorte": "AS#01",
+      "cms": "CMS II.1,393",
+      "chic": "#252",
+      "provenance": "Archanes/Phourni",
+      "material_shape": "bone 3-sided prism",
+      "graphs": {
+        "alpha": "019-095-052 (uncertainty preserved)",
+        "beta": "042-019",
+        "gamma": "062?-●-●-●"
+      }
+    },
+    {
+      "decorte": "AS#04",
+      "cms": null,
+      "chic": "#313",
+      "provenance": "Moni Odigitria",
+      "material_shape": "bone cube",
+      "graphs": {
+        "alpha": "042-019 + Flower?",
+        "beta": "019-095-052",
+        "gamma": "Quadruped",
+        "delta": "Human figure with a fish?"
+      }
+    },
+    {
+      "decorte": "AS#03",
+      "cms": "CMS II.1,391",
+      "chic": "#315",
+      "provenance": "Archanes/Phourni",
+      "material_shape": "4-sided bone bar/baton",
+      "graphs": {
+        "H": "019-095-052 (uncertainty preserved)",
+        "I": "042-019",
+        "J": "Hand/CH008?",
+        "L": "Leg/CH010?",
+        "other_faces": "primarily pictorial/uncertain as listed by authority"
+      }
+    }
+  ],
+  "important_delta": "This later authority supplies CHIC graph-level face strings for six early objects, enabling an authority-to-authority occurrence crosswalk rather than project visual inference.",
+  "guardrails": [
+    "CHIC graph numbers are later-authority identifications, not automatic equivalences to Decorte AS labels.",
+    "Uncertainty marks in the source must survive normalization.",
+    "Later Cretan Hieroglyphic readings do not retroactively prove phonetic values for Archanes signs."
+  ]
+}
