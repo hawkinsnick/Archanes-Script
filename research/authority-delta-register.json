@@ -19,6 +19,12 @@
       "position": "Later Cretan Hieroglyphic treatment provides graph-level face strings and object metadata for six early seals.",
       "delta_type": "OBJECT_FACE_GRAPH_CROSSWALK",
       "project_rule": "Compare to Decorte AS occurrence claims as authority-specific mappings; preserve uncertainty and do not infer phonetic equivalence."
+    },
+    {
+      "id": "INSCRIBE-DIRECT-2026",
+      "position": "Direct digital object records reconcile AS#01-04 subset to museum inventories and CHIC locators; AS#04 material is Ivory in INSCRIBE versus Bone in Decorte baseline.",
+      "delta_type": "OBJECT_METADATA_AND_MATERIAL_DISAGREEMENT",
+      "project_rule": "Preserve both authority states; do not normalize Ivory/Bone until primary catalogue/object evidence resolves terminology."
     }
   ],
   "baseline_complete": {
