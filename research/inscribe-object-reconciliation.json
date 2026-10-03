@@ -1,0 +1,62 @@
+{
+  "schema_version": "1.0",
+  "source": "ERC INSCRIBE Cretan Hieroglyphic database",
+  "source_role": "DIRECT_DIGITAL_OBJECT_METADATA_AND_3D_LOCATOR",
+  "records": [
+    {
+      "decorte": "AS#02",
+      "cms": "CMS II.1,394",
+      "chic": "#202",
+      "inscribe": "ARKH S (2/2) 01",
+      "document_type": "Seal",
+      "subtype": "Discoid",
+      "material": "Animal bone",
+      "museum": "Heraklion Archaeological Museum",
+      "inventory": "Σ-K 2245",
+      "findspot": "Archanes, Phourni, Funerary building 6, room 3",
+      "chronology": "MM IA",
+      "chic_pages": "226-227",
+      "authority_transnumeration": {
+        "side_a": "042-019",
+        "side_b": "019-095-052"
+      },
+      "status": "DIRECT_INSCRIBE_METADATA_RECONCILED"
+    },
+    {
+      "decorte": "AS#03",
+      "cms": "CMS II.1,391",
+      "chic": "#315",
+      "inscribe": "ARKH S (2/14) 01",
+      "document_type": "Seal",
+      "subtype": "fourteen seal face bar",
+      "material": "Animal bone",
+      "museum": "Heraklion Archaeological Museum",
+      "inventory": "Σ-Κ 2260",
+      "findspot": "Archanes, Phourni, Funerary building 6, room 3",
+      "chronology": "MM IA",
+      "chic_pages": "290-291",
+      "status": "DIRECT_INSCRIBE_METADATA_RECONCILED"
+    },
+    {
+      "decorte": "AS#01",
+      "cms": "CMS II.1,393",
+      "chic": "#252",
+      "inscribe": "ARKH S (3/3) 02",
+      "status": "INSCRIBE_INDEX_PRESENCE_CONFIRMED_DETAIL_PAGE_PENDING"
+    },
+    {
+      "decorte": "AS#04",
+      "cms": null,
+      "chic": "#313",
+      "inscribe": "MONI OD. S (2/6) 01",
+      "status": "INSCRIBE_INDEX_PRESENCE_CONFIRMED_DETAIL_PAGE_PENDING"
+    }
+  ],
+  "rights": {
+    "models": "INSCRIBE states 3D models are for scientific, non-profit use; reproduction/publication/commercial use prohibited without prior written permission.",
+    "project_action": "Do not copy/rehost 3D models. Record factual metadata, identifiers, scholarly locators, and rights status only unless permission is obtained.",
+    "museum_copyright": "Object pages also credit Heraklion Archaeological Museum; museum/model rights must travel with any future image/model use."
+  },
+  "independence": "INSCRIBE object metadata and CHIC/Decorte mappings are a digital access/reconciliation layer, not automatically an independent epigraphic witness.",
+  "status": "DIRECT_OBJECT_RECONCILIATION_STARTED_WITH_RIGHTS_FIREWALL"
+}
