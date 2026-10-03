@@ -31,12 +31,17 @@
       "check": "authority independence",
       "result": "GUARDED",
       "detail": "CHIC-derived membership/sign labels are not counted as independent evidence merely when repeated by Decorte."
+    },
+    {
+      "check": "later_authority_face_crosswalk",
+      "status": "PASS_FOR_SIX_EARLY_OBJECTS",
+      "evidence": "Valerio 2024 table supplies CHIC/CMS/provenance/material and graph strings for #202/#203/#251/#252/#313/#315."
     }
   ],
   "next_gates": [
-    "object/face occurrence matrix",
-    "later scholarship authority-delta register",
-    "CMS record reconciliation"
+    "CMS direct object-record reconciliation",
+    "expand later-authority deltas beyond six-object crosswalk",
+    "resolve authority-specific AS↔CH graph correspondences without collapsing uncertainty"
   ],
   "additional_findings": [
     {
