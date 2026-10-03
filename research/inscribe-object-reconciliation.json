@@ -42,14 +42,40 @@
       "cms": "CMS II.1,393",
       "chic": "#252",
       "inscribe": "ARKH S (3/3) 02",
-      "status": "INSCRIBE_INDEX_PRESENCE_CONFIRMED_DETAIL_PAGE_PENDING"
+      "document_type": "Seal",
+      "subtype": "Three-sided prism",
+      "material": "Animal bone",
+      "museum": "Heraklion Archaeological Museum",
+      "inventory": "Σ-K 2266",
+      "findspot": "Archanes, Phourni, Funerary building 6, room 3",
+      "chronology": "MM IA",
+      "chic_pages": "252-253",
+      "authority_transnumeration": {
+        "side_a": "019-095-052",
+        "side_b": "042-019",
+        "side_c": "062"
+      },
+      "status": "DIRECT_INSCRIBE_METADATA_RECONCILED"
     },
     {
       "decorte": "AS#04",
       "cms": null,
       "chic": "#313",
       "inscribe": "MONI OD. S (2/6) 01",
-      "status": "INSCRIBE_INDEX_PRESENCE_CONFIRMED_DETAIL_PAGE_PENDING"
+      "document_type": "Seal",
+      "subtype": "Cube",
+      "material": "Ivory",
+      "museum": "Heraklion Archaeological Museum",
+      "inventory": "Σ-Κ 2850",
+      "findspot": "Moni Odigitria",
+      "chronology": "MM I?",
+      "chic_pages": "288-289",
+      "authority_transnumeration": {
+        "side_a": "042-019",
+        "side_b": "019-095-052"
+      },
+      "authority_delta": "INSCRIBE material=Ivory; Decorte Table 8 baseline recorded Bone. Preserve disagreement pending source reconciliation.",
+      "status": "DIRECT_INSCRIBE_METADATA_RECONCILED_WITH_MATERIAL_DELTA"
     }
   ],
   "rights": {
