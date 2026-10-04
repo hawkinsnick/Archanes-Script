@@ -1,8 +1,18 @@
 {
-  "schema_version": "1.0",
-  "project": "Archanes-Script",
-  "skill_version": "1.8.0",
-  "milestone": "DECORTE_BASELINE_PLUS_OCCURRENCE_RECONCILIATION",
+  "artifacts": [
+    {
+      "bytes": 21347,
+      "path": "research/collection-work-ledger.json",
+      "role": "collection_work_ledger",
+      "sha256": "a6e60162ae97fc8ca4e098920bf1160e783307ffa0e0742a072c877fea1ba3d5"
+    },
+    {
+      "bytes": 1856,
+      "path": "review/collection-packet.json",
+      "role": "collection_review_packet",
+      "sha256": "3ba47da4f801676033ad686ea3de38324986e036415377135ad7b9f7b746efee"
+    }
+  ],
   "authoritative_inputs": [
     "research/corpus-definition-register.json",
     "research/decorte-2018-corpus-register.json",
@@ -13,13 +23,20 @@
     "research/diachronic-subgroups.json",
     "research/authority-delta-register.json",
     "research/corpus-quality-audit.json",
-    "research/machine-work-ledger.json"
+    "research/machine-work-ledger.json",
+    "research/collection-work-ledger.json",
+    "review/collection-packet.json"
   ],
+  "collection_evidence_fingerprint": "ffa6350d23b31c352fab72dd2afa0f7da3e7940303084425c3e1fddcf9a51f26",
+  "generated_note": "Index points to repository evidence; it does not duplicate copyrighted source text.",
   "guardrails": [
     "Authority-specific corpus membership is not project consensus.",
     "Tentative sign identities remain tentative.",
     "Formula-bearing does not imply Archanes corpus membership.",
     "Formal cross-script similarity does not imply cognation or shared phonetic value."
   ],
-  "generated_note": "Index points to repository evidence; it does not duplicate copyrighted source text."
+  "milestone": "DECORTE_BASELINE_PLUS_OCCURRENCE_RECONCILIATION",
+  "project": "Archanes-Script",
+  "schema_version": "1.0",
+  "skill_version": "1.8.0"
 }
