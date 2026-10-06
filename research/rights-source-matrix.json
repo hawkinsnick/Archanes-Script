@@ -1,0 +1,27 @@
+{
+  "schema_version": "1.0",
+  "corpus": "Archanes Script",
+  "sources": [
+    {
+      "id": "Decorte-2018",
+      "rights": "CAMBRIDGE_REPOSITORY_REPORTS_CC_BY_4.0_EXCEPT_WHERE_NOTED",
+      "use": "publication-derived factual/structured assertions with attribution; third-party CMS/CHIC images/figures require component review"
+    },
+    {
+      "id": "Ferrara-Montecchi-Valerio-2021",
+      "rights": "PUBLISHER/REPOSITORY_TERMS_COMPONENT_SPECIFIC",
+      "use": "bibliographic/argument metadata; substantial protected content only where license permits"
+    },
+    {
+      "id": "CMS",
+      "rights": "SOURCE_SPECIFIC_TERMS_REQUIRED",
+      "use": "object metadata/identity where lawful; images not redistributed without permission"
+    },
+    {
+      "id": "CHIC",
+      "rights": "COPYRIGHTED_CRITICAL_CORPUS",
+      "use": "identifiers/bibliographic facts; systematic protected drawings/text require permission/clear terms"
+    }
+  ],
+  "rule": "Open article licensing does not automatically relicense third-party CMS/CHIC images or drawings."
+}
