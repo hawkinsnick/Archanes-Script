@@ -3,12 +3,12 @@
   "corpus": "Archanes Script",
   "target": "LINEAR_A_METHOD_PARITY_PRE_EXPERT_MAXIMUM",
   "checked": "2026-10-06",
-  "assessment": "OPEN_MACHINE_FRONTIER",
+  "assessment": "RIGHTS_ACCESS_AND_EXPERT_OBJECT_RECONCILIATION_DOMINANT_ENGINEERING_COMPLETE",
   "blockers": [
     {
       "id": "ARC-BLK-001",
-      "class": "OBJECT_FACE_RECONCILIATION",
-      "status": "OPEN",
+      "class": "RIGHTS_ACCESS",
+      "status": "MAXIMIZED_WITH_CURRENT_TEXTUAL_PUBLICATION_EVIDENCE",
       "needed": "remaining face-level occurrence mapping and CMS/object metadata"
     },
     {
@@ -26,7 +26,7 @@
     {
       "id": "ARC-BLK-004",
       "class": "ENGINEERING",
-      "status": "OPEN",
+      "status": "COMPLETE",
       "needed": "research API, exports, parity validation, CI and method-parity documentation"
     }
   ]
