@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "corpus": "Archanes Script",
+  "items": [
+    {
+      "id": "ARC-DIS-001",
+      "scope": "corpus denominator",
+      "kind": "membership/count",
+      "status": "EXPLICIT",
+      "assertions": [
+        "Yule claimed 15/listed 14 per Decorte",
+        "Decorte systematic corpus 16"
+      ],
+      "boundary": "No project-invented denominator beyond authority-specific views."
+    },
+    {
+      "id": "ARC-DIS-002",
+      "scope": "script status",
+      "kind": "classification",
+      "status": "UNRESOLVED_SCHOLARLY",
+      "assertions": [
+        "Decorte: Archanes Script",
+        "Ferrara/Montecchi/Valério: direct manifestation of Hieroglyphic tradition"
+      ],
+      "boundary": "Preserve competing models."
+    },
+    {
+      "id": "ARC-DIS-003",
+      "scope": "Archanes formula",
+      "kind": "segmentation/formula",
+      "status": "VARIANT",
+      "boundary": "Do not encode one invariant five-sign sequence; Decorte seven pattern classes remain source-specific."
+    },
+    {
+      "id": "ARC-DIS-004",
+      "scope": "signary",
+      "kind": "grapheme_identity",
+      "status": "AUTHORITY_SPECIFIC",
+      "boundary": "Decorte labels and CHIC comparisons remain distinct; questioned ASd002=AS013 stays questioned."
+    }
+  ]
+}
