@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "corpus": "Archanes Script",
+  "lineages": [
+    {
+      "id": "ARC-LIN-YULE",
+      "sources": [
+        "Yule 1980"
+      ],
+      "role": "early corpus definition",
+      "boundary": "Reported 15 but listed 14 according to Decorte; preserve discrepancy."
+    },
+    {
+      "id": "ARC-LIN-CHIC",
+      "sources": [
+        "CHIC"
+      ],
+      "role": "Cretan Hieroglyphic catalogue overlap",
+      "boundary": "CHIC membership does not settle whether Archanes is an independent script."
+    },
+    {
+      "id": "ARC-LIN-DECORTE",
+      "sources": [
+        "Decorte 2018"
+      ],
+      "role": "systematic redefinition",
+      "rights": "CAMBRIDGE_REPOSITORY_CC_BY_4.0_EXCEPT_NOTED",
+      "coverage": "AS#01-AS#16",
+      "boundary": "Authority-specific corpus/signary; not project consensus."
+    },
+    {
+      "id": "ARC-LIN-FMV",
+      "sources": [
+        "Ferrara, Montecchi & Valério 2021"
+      ],
+      "role": "formula/script reassessment",
+      "boundary": "Argues strong Cretan Hieroglyphic milieu connection; competing model retained."
+    }
+  ],
+  "rules": [
+    "Corpus membership, sign identity and script classification are separate assertions.",
+    "Do not count CHIC/CMS/Decorte identifiers as independent objects.",
+    "Cross-script resemblance does not establish value or cognation."
+  ]
+}
