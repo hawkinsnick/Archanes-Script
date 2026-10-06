@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0",
+  "corpus": "Archanes Script",
+  "checked": "2026-10-06",
+  "target": "DEFENSIBLE_SCORE_GT_9",
+  "source": {
+    "citation": "R. Decorte, The First 'European' Writing: Redefining the Archanes Script, Oxford Journal of Archaeology 37.4 (2018), 341-372",
+    "doi": "10.1111/ojoa.12152",
+    "repository_doi": "10.17863/CAM.31538",
+    "rights": "CC BY 4.0 except where otherwise noted",
+    "role": "complete authority-specific corpus/signary redefinition"
+  },
+  "work_program": [
+    "Audit every currently registered Decorte object/sign/formula assertion against exact article locators.",
+    "Mark embedded CMS/CHIC figures separately where third-party component rights apply.",
+    "Complete remaining face-level occurrence mapping where article text/tables provide rights-clear evidence.",
+    "Do not resolve the independent-script versus early Cretan-Hieroglyphic classification disagreement by majority vote."
+  ],
+  "boundary": "Open article rights strengthen textual/table extraction but do not automatically relicense third-party CMS/CHIC images or settle script ontology."
+}
