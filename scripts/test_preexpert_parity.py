@@ -1,0 +1,3 @@
+#!/usr/bin/env python3
+import json,pathlib
+R=pathlib.Path(__file__).resolve().parents[1];req=["research/source-lineage-register.json","research/disagreement-register.json","research/rights-source-matrix.json","research/residual-blocker-ledger.json","research/decorte-2018-corpus-register.json","research/signary-authority-register.json","research/formula-register.json"];assert all((R/p).exists() for p in req);d=json.loads((R/"research/decorte-2018-corpus-register.json").read_text());assert d["denominator"]==16 and len(d["records"])==16;f=json.loads((R/"research/formula-register.json").read_text());assert len(f["sequences"])==7;print(json.dumps({"status":"PASS","decorte_objects":16,"formula_patterns":7,"canonical_consensus":False}))
