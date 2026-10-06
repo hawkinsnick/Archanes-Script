@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "corpus": "Archanes Script",
+  "target": "LINEAR_A_METHOD_PARITY_PRE_EXPERT_MAXIMUM",
+  "checked": "2026-10-06",
+  "assessment": "OPEN_MACHINE_FRONTIER",
+  "blockers": [
+    {
+      "id": "ARC-BLK-001",
+      "class": "OBJECT_FACE_RECONCILIATION",
+      "status": "OPEN",
+      "needed": "remaining face-level occurrence mapping and CMS/object metadata"
+    },
+    {
+      "id": "ARC-BLK-002",
+      "class": "RIGHTS_ACCESS",
+      "status": "PARTIAL",
+      "needed": "CMS/CHIC component rights and object/figure access for systematic visual reconciliation"
+    },
+    {
+      "id": "ARC-BLK-003",
+      "class": "SCIENTIFIC_REVIEW",
+      "status": "DOWNSTREAM",
+      "needed": "adjudicate script membership, sign identity and formula interpretation"
+    },
+    {
+      "id": "ARC-BLK-004",
+      "class": "ENGINEERING",
+      "status": "OPEN",
+      "needed": "research API, exports, parity validation, CI and method-parity documentation"
+    }
+  ]
+}
