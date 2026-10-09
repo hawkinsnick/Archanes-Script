@@ -1,0 +1,506 @@
+{
+  "builder_sha256": "4b61ca559d0817b09e869f6c3ca38ae7478071a0466f89861e71954d1bb499d6",
+  "completion_rule": "Enumeration is a completed work map, not completed collation. Resolve every open task using exact inspected evidence or a documented access/rights dependency; leave scientific adjudication to independent review.",
+  "config_sha256": "dd142f3dac84d9d4812ad1231916a63ae6f5c21b4c323fa8820ff9af20b0e3ce",
+  "evidence_fingerprint": "ffa6350d23b31c352fab72dd2afa0f7da3e7940303084425c3e1fddcf9a51f26",
+  "input_sha256": {
+    "data/sources.json": "4519251bf4756d46d9dc5b21afcf546e7972b83f697349dfbeab63c379b9858d",
+    "research/acquisition-queue.json": "35e12f24e3e3eccceca70f7e7ecf382a31ca668e52cb25c518406429e69728cf",
+    "research/authority-delta-register.json": "91d07718d3be220b3ca015dfd587f55f5ba58a901ce5a2b94cb2e790077e4204",
+    "research/corpus-definition-register.json": "4b2fb5a30d19cb54eb69979dd41658eaf38a9c93b184e10fe31b7e0ccec3a93e",
+    "research/corpus-quality-audit.json": "c2cb9f32bd619235bd3b249e2e2271575fd5cc30d1ccc623cc5deb197894527b",
+    "research/decorte-2018-corpus-register.json": "bfafdb3eb7f01d18de4bf18944ddfcf8be66bea2a7d699ea0d91836a75e402d9",
+    "research/diachronic-subgroups.json": "553df7a0fbf78a90fb1d10a722379583640a5184b178bf9692283c1b3bd29107",
+    "research/formula-comparanda.json": "a88b5c940ab32461cd17e0f62f491e21ffb5184be9ef81f06a3d0f59dcad50e1",
+    "research/formula-register.json": "d8c2c1d2df291082b9fa0620f6fa24e2be6ebbce0e6876c1165fa76236212564",
+    "research/machine-work-ledger.json": "b36e225da185a8c3fdd806ee6bc6b0f79e2f8411ebc4237d74c369b9d3ca4937",
+    "research/pre-expert-gate-summary.json": "945af143fa7fb46229487cef88eb15692ecde5cd5c449f4ab73bc85798bced84",
+    "research/pre-expert-maximum.json": "ac2f652a6790af0d156a50dedd3fbb4516251dbf9c89b17df4a61dd9611d928c",
+    "research/publication-register.json": "9449b0da1b2ea2cdc8bbc0c271e968e271949b71bddd5aea6f0b12133a574629",
+    "research/rights-register.json": "2041674d37c18c1592e9cfcb82bf84cfd58509b2c831a8ca9044f47bf1f40ec2",
+    "research/sign-occurrence-register.json": "930fbbdba4f8ca626651b861ef0ab13c06c554a4247ef5888c74d23926d58132",
+    "research/signary-authority-register.json": "31f8b97d70f46724ce8c0abd78d862b38abb35cce658ba2f1a18c50cae645f9a"
+  },
+  "native_review_links": [
+    "research/expert-review-packet.json",
+    "LICENSING.md"
+  ],
+  "question_definitions": {
+    "language_or_script_classification": "Attribute membership and classification to named authorities; preserve disagreement.",
+    "object_identity": "Confirm the object, face and inventory concordance; distinguish source entries from physical objects.",
+    "reading_and_layout": "Compare the exact edition rows, figures and layout; preserve competing readings with page/line locators.",
+    "reuse_rights": "Check the applicable license or permission for each component; project terms do not override upstream rights.",
+    "source_independence": "Identify shared editorial and photographic lineage; a derivative is not an independent witness.",
+    "uncertainty": "Retain damage, restorations, unreadable signs and competing segmentations; do not silently normalize them."
+  },
+  "record_identity_is_not_object_identity": true,
+  "record_views": [
+    {
+      "enumerated": 16,
+      "representation": "PUBLIC_NATIVE_IDENTIFIERS_AND_POINTERS_ONLY",
+      "unit": "authority_attributed_object",
+      "view": "Decorte-baseline"
+    }
+  ],
+  "records": [
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/0",
+      "native_id": "AS#01",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "Decorte-baseline:AS#01",
+      "source_file_sha256": "bfafdb3eb7f01d18de4bf18944ddfcf8be66bea2a7d699ea0d91836a75e402d9",
+      "source_lead_pointers": [],
+      "source_path": "research/decorte-2018-corpus-register.json",
+      "source_record_sha256": "85148048325af82572d4211917f87b69e9880e46a9e3faa546f45b236f2811e9",
+      "unit": "authority_attributed_object"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/1",
+      "native_id": "AS#02",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "Decorte-baseline:AS#02",
+      "source_file_sha256": "bfafdb3eb7f01d18de4bf18944ddfcf8be66bea2a7d699ea0d91836a75e402d9",
+      "source_lead_pointers": [],
+      "source_path": "research/decorte-2018-corpus-register.json",
+      "source_record_sha256": "2422370f8b05f557728a5f872f3763539aff035ced430d526db901ddff1dc015",
+      "unit": "authority_attributed_object"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/2",
+      "native_id": "AS#03",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "Decorte-baseline:AS#03",
+      "source_file_sha256": "bfafdb3eb7f01d18de4bf18944ddfcf8be66bea2a7d699ea0d91836a75e402d9",
+      "source_lead_pointers": [],
+      "source_path": "research/decorte-2018-corpus-register.json",
+      "source_record_sha256": "b313c2191455451759e965c8439cff86fa6ad773f0d02023aa3314ffa49e050f",
+      "unit": "authority_attributed_object"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/3",
+      "native_id": "AS#04",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "Decorte-baseline:AS#04",
+      "source_file_sha256": "bfafdb3eb7f01d18de4bf18944ddfcf8be66bea2a7d699ea0d91836a75e402d9",
+      "source_lead_pointers": [],
+      "source_path": "research/decorte-2018-corpus-register.json",
+      "source_record_sha256": "759a5b1322f2e881dd3bd62f5f885efd0fdf34a0c5b5ed728e7ad41556a270a7",
+      "unit": "authority_attributed_object"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/4",
+      "native_id": "AS#05",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "Decorte-baseline:AS#05",
+      "source_file_sha256": "bfafdb3eb7f01d18de4bf18944ddfcf8be66bea2a7d699ea0d91836a75e402d9",
+      "source_lead_pointers": [],
+      "source_path": "research/decorte-2018-corpus-register.json",
+      "source_record_sha256": "4e1a27b54254f0c2996bda5025900fb0fa41ba929b5b4c49226c18b38ce7622e",
+      "unit": "authority_attributed_object"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/5",
+      "native_id": "AS#06",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "Decorte-baseline:AS#06",
+      "source_file_sha256": "bfafdb3eb7f01d18de4bf18944ddfcf8be66bea2a7d699ea0d91836a75e402d9",
+      "source_lead_pointers": [],
+      "source_path": "research/decorte-2018-corpus-register.json",
+      "source_record_sha256": "c35d84a318891b3e75f3791b37b3e792b891e11e30daac31256572b63d40b71d",
+      "unit": "authority_attributed_object"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/6",
+      "native_id": "AS#07",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "Decorte-baseline:AS#07",
+      "source_file_sha256": "bfafdb3eb7f01d18de4bf18944ddfcf8be66bea2a7d699ea0d91836a75e402d9",
+      "source_lead_pointers": [],
+      "source_path": "research/decorte-2018-corpus-register.json",
+      "source_record_sha256": "f808f98cecc3c7c588af3b785ebb949551834fe1391139e55d52b0b59f1bc12e",
+      "unit": "authority_attributed_object"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/7",
+      "native_id": "AS#08",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "Decorte-baseline:AS#08",
+      "source_file_sha256": "bfafdb3eb7f01d18de4bf18944ddfcf8be66bea2a7d699ea0d91836a75e402d9",
+      "source_lead_pointers": [],
+      "source_path": "research/decorte-2018-corpus-register.json",
+      "source_record_sha256": "df2d88d12fe6cc796d2b038a2947a19795357e047e7601caebe5556a619ebc15",
+      "unit": "authority_attributed_object"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/8",
+      "native_id": "AS#09",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "Decorte-baseline:AS#09",
+      "source_file_sha256": "bfafdb3eb7f01d18de4bf18944ddfcf8be66bea2a7d699ea0d91836a75e402d9",
+      "source_lead_pointers": [],
+      "source_path": "research/decorte-2018-corpus-register.json",
+      "source_record_sha256": "434d89e98a544577b99cb41bc325343fc5dd96a29bec09e78d08eab1d20460a5",
+      "unit": "authority_attributed_object"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/9",
+      "native_id": "AS#10",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "Decorte-baseline:AS#10",
+      "source_file_sha256": "bfafdb3eb7f01d18de4bf18944ddfcf8be66bea2a7d699ea0d91836a75e402d9",
+      "source_lead_pointers": [],
+      "source_path": "research/decorte-2018-corpus-register.json",
+      "source_record_sha256": "41356a53c7f02df0f301a290c22d36746494d8fe5bed1b26fdc3382a4bff44f5",
+      "unit": "authority_attributed_object"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/10",
+      "native_id": "AS#11",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "Decorte-baseline:AS#11",
+      "source_file_sha256": "bfafdb3eb7f01d18de4bf18944ddfcf8be66bea2a7d699ea0d91836a75e402d9",
+      "source_lead_pointers": [],
+      "source_path": "research/decorte-2018-corpus-register.json",
+      "source_record_sha256": "3070a5da075f52a7f22d29e83bb4a209ded20735e9a4bafffa4041c29a9c3ee4",
+      "unit": "authority_attributed_object"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/11",
+      "native_id": "AS#12",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "Decorte-baseline:AS#12",
+      "source_file_sha256": "bfafdb3eb7f01d18de4bf18944ddfcf8be66bea2a7d699ea0d91836a75e402d9",
+      "source_lead_pointers": [],
+      "source_path": "research/decorte-2018-corpus-register.json",
+      "source_record_sha256": "233c22f727168ce251a5f422222c1df01a57bbde72cae5933bb313a185e2a312",
+      "unit": "authority_attributed_object"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/12",
+      "native_id": "AS#13",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "Decorte-baseline:AS#13",
+      "source_file_sha256": "bfafdb3eb7f01d18de4bf18944ddfcf8be66bea2a7d699ea0d91836a75e402d9",
+      "source_lead_pointers": [],
+      "source_path": "research/decorte-2018-corpus-register.json",
+      "source_record_sha256": "fbe8a88310f4a895a25742d1affe45564c5e4f1661541fdd5b1b43f8a6a9e348",
+      "unit": "authority_attributed_object"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/13",
+      "native_id": "AS#14",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "Decorte-baseline:AS#14",
+      "source_file_sha256": "bfafdb3eb7f01d18de4bf18944ddfcf8be66bea2a7d699ea0d91836a75e402d9",
+      "source_lead_pointers": [],
+      "source_path": "research/decorte-2018-corpus-register.json",
+      "source_record_sha256": "c8f3f814b84c39361c9e267db7513bf7c6b6f076ae7c89a40d7b42e004ae368e",
+      "unit": "authority_attributed_object"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/14",
+      "native_id": "AS#15",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "Decorte-baseline:AS#15",
+      "source_file_sha256": "bfafdb3eb7f01d18de4bf18944ddfcf8be66bea2a7d699ea0d91836a75e402d9",
+      "source_lead_pointers": [],
+      "source_path": "research/decorte-2018-corpus-register.json",
+      "source_record_sha256": "59e3ee3b87aa1846b901a44b80e86625d99f021b4c2b4f7bd16509eef977b103",
+      "unit": "authority_attributed_object"
+    },
+    {
+      "assessment": "NOT_ADJUDICATED_BY_COLLECTION_BUILDER",
+      "json_pointer": "/records/15",
+      "native_id": "AS#16",
+      "questions": [
+        "object_identity",
+        "reading_and_layout",
+        "uncertainty",
+        "language_or_script_classification",
+        "source_independence",
+        "reuse_rights"
+      ],
+      "record_key": "Decorte-baseline:AS#16",
+      "source_file_sha256": "bfafdb3eb7f01d18de4bf18944ddfcf8be66bea2a7d699ea0d91836a75e402d9",
+      "source_lead_pointers": [],
+      "source_path": "research/decorte-2018-corpus-register.json",
+      "source_record_sha256": "b6043063c43bb6a123c77de55bbce93759915dda8969b7ecffbf2101036eacdd",
+      "unit": "authority_attributed_object"
+    }
+  ],
+  "repository": "hawkinsnick/Archanes-Script",
+  "review_dimensions": [
+    "object_identity",
+    "reading_and_layout",
+    "uncertainty",
+    "language_or_script_classification",
+    "source_independence",
+    "reuse_rights"
+  ],
+  "schema_version": "1.0",
+  "scientific_approval_granted": false,
+  "scope": "Declared native snapshots and source/task registers only; not a language-wide inventory",
+  "source_leads": [
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/0/title",
+      "kind": "title",
+      "source_path": "research/publication-register.json"
+    },
+    {
+      "inspection": "REFER_TO_NATIVE_ASSERTION; NOT_INSPECTED_BY_BUILDING_THIS_LEDGER",
+      "json_pointer": "/records/0/doi",
+      "kind": "doi",
+      "source_path": "research/publication-register.json"
+    }
+  ],
+  "tasks": [
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
+      "json_pointer": "/items/0",
+      "native_status": "COMPLETE_FOR_DECORTE_2018",
+      "native_task_id": "ARC-PRE-001",
+      "source_path": "research/machine-work-ledger.json",
+      "task": null
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
+      "json_pointer": "/items/1",
+      "native_status": "OCCURRENCE_MATRIX_STARTED",
+      "native_task_id": "ARC-PRE-002",
+      "source_path": "research/machine-work-ledger.json",
+      "task": null
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
+      "json_pointer": "/items/2",
+      "native_status": "PARTIAL",
+      "native_task_id": "ARC-PRE-003",
+      "source_path": "research/machine-work-ledger.json",
+      "task": null
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
+      "json_pointer": "/items/3",
+      "native_status": "AUTHORITY_VARIANTS_EXTRACTED",
+      "native_task_id": "ARC-PRE-004",
+      "source_path": "research/machine-work-ledger.json",
+      "task": null
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "HUMAN_OR_EXTERNAL_NATIVE_BOUNDARY",
+      "json_pointer": "/human_only/0",
+      "native_status": null,
+      "native_task_id": null,
+      "source_path": "research/pre-expert-gate-summary.json",
+      "task": "adjudicate competing corpus/script models"
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "HUMAN_OR_EXTERNAL_NATIVE_BOUNDARY",
+      "json_pointer": "/human_only/1",
+      "native_status": null,
+      "native_task_id": null,
+      "source_path": "research/pre-expert-gate-summary.json",
+      "task": "palaeographic identity where authorities disagree"
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "HUMAN_OR_EXTERNAL_NATIVE_BOUNDARY",
+      "json_pointer": "/human_only/2",
+      "native_status": null,
+      "native_task_id": null,
+      "source_path": "research/pre-expert-gate-summary.json",
+      "task": "linguistic/function claims"
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
+      "json_pointer": "/remaining_nonexpert_work/0",
+      "native_status": null,
+      "native_task_id": "ARC-PRE-001",
+      "source_path": "research/pre-expert-maximum.json",
+      "task": "Build union register of every object/document assigned to Archanes by identified authorities, retaining authority-specific membership."
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
+      "json_pointer": "/remaining_nonexpert_work/1",
+      "native_status": null,
+      "native_task_id": "ARC-PRE-002",
+      "source_path": "research/pre-expert-maximum.json",
+      "task": "Encode authority-specific sign inventories and proposed correspondences without merging them."
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
+      "json_pointer": "/remaining_nonexpert_work/2",
+      "native_status": null,
+      "native_task_id": "ARC-PRE-003",
+      "source_path": "research/pre-expert-maximum.json",
+      "task": "Reconcile museum/excavation IDs, provenance, chronology, material, iconography and inscription geometry."
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "OPEN_REQUIRES_DISPOSITION",
+      "json_pointer": "/remaining_nonexpert_work/3",
+      "native_status": null,
+      "native_task_id": "ARC-PRE-004",
+      "source_path": "research/pre-expert-maximum.json",
+      "task": "Encode occurrences/segmentation claims with exact source locators and uncertainty."
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "HUMAN_OR_EXTERNAL_NATIVE_BOUNDARY",
+      "json_pointer": "/human_only_boundary/0",
+      "native_status": null,
+      "native_task_id": "ARC-HUM-001",
+      "source_path": "research/pre-expert-maximum.json",
+      "task": "adjudicate corpus membership where authorities disagree"
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "HUMAN_OR_EXTERNAL_NATIVE_BOUNDARY",
+      "json_pointer": "/human_only_boundary/1",
+      "native_status": null,
+      "native_task_id": "ARC-HUM-002",
+      "source_path": "research/pre-expert-maximum.json",
+      "task": "adjudicate sign identity and palaeographic relationship to Cretan Hieroglyphic/Linear A"
+    },
+    {
+      "blocker_is_not_established_by_a_label": true,
+      "collection_disposition": "HUMAN_OR_EXTERNAL_NATIVE_BOUNDARY",
+      "json_pointer": "/human_only_boundary/2",
+      "native_status": null,
+      "native_task_id": "ARC-HUM-003",
+      "source_path": "research/pre-expert-maximum.json",
+      "task": "adjudicate formula segmentation/function/reading"
+    }
+  ],
+  "terminal_pre_expert_maximum_established": false
+}
