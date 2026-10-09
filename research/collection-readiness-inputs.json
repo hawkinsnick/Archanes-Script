@@ -1,0 +1,38 @@
+{
+  "native_review_links": [
+    "research/expert-review-packet.json",
+    "LICENSING.md"
+  ],
+  "public_payload_rule": "Identifiers and source pointers only; no new transcriptions or source images. Restricted A/B derivatives stay local.",
+  "record_sets": [
+    {
+      "id_key": "as_id",
+      "name": "Decorte-baseline",
+      "path": "research/decorte-2018-corpus-register.json",
+      "pointer": "/records",
+      "unit": "authority_attributed_object"
+    }
+  ],
+  "repository": "hawkinsnick/Archanes-Script",
+  "schema_version": "1.0",
+  "scope_rule": "Every row in declared views is indexed; overlapping views are never summed as unique objects. Discovery outside these views remains open.",
+  "source_discovery_rule": "Declare new native source/task registers here so offline replay and the collection report include them.",
+  "source_files": [
+    "data/sources.json",
+    "research/acquisition-queue.json",
+    "research/authority-delta-register.json",
+    "research/corpus-definition-register.json",
+    "research/corpus-quality-audit.json",
+    "research/decorte-2018-corpus-register.json",
+    "research/diachronic-subgroups.json",
+    "research/formula-comparanda.json",
+    "research/formula-register.json",
+    "research/machine-work-ledger.json",
+    "research/pre-expert-gate-summary.json",
+    "research/pre-expert-maximum.json",
+    "research/publication-register.json",
+    "research/rights-register.json",
+    "research/sign-occurrence-register.json",
+    "research/signary-authority-register.json"
+  ]
+}
