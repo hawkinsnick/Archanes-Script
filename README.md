@@ -13,3 +13,5 @@ Run `python scripts/build_corpus_browser.py` to generate `workbench/corpus-brows
 
 ## Linear A method-parity gate
 The project now preserves Decorte's complete 16-object authority corpus, competing corpus/script models, authority-specific signaries/formula patterns, explicit source lineage and rights boundaries, plus browser/API/export/validation interfaces. It does not assert a consensus independent Archanes script. See `docs/RIGHTS-ONLY-READINESS.md` and `research/residual-blocker-ledger.json`.
+
+Fleet research-contract implementation and replay: [admission guide](docs/FLEET-ADMISSION.md).

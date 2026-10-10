@@ -1,3 +1,8 @@
+---
+name: archanes-script-research
+description: Evidence-first research with native corpus authorities and fleet contract validation.
+version: 0.3.1
+---
 # Archanes Script Research AI
 
 Treat corpus membership itself as a scholarly assertion. Preserve competing definitions, signaries and segmentations. Keep iconographic interpretation separate from sign transcription. Do not silently equate Archanes signs with Cretan Hieroglyphic or Linear A, and do not infer phonetic values from resemblance. Consult the Pre-Expert Maximum contract before expert escalation.
@@ -9,3 +14,6 @@ Run `python scripts/build_corpus_browser.py` to generate `workbench/corpus-brows
 
 ## Linear A method-parity gate
 The project now preserves Decorte's complete 16-object authority corpus, competing corpus/script models, authority-specific signaries/formula patterns, explicit source lineage and rights boundaries, plus browser/API/export/validation interfaces. It does not assert a consensus independent Archanes script. See `docs/RIGHTS-ONLY-READINESS.md` and `research/residual-blocker-ledger.json`.
+
+## Fleet research contract
+Follow `ai-skill/references/corpus-project-contract.md`. Read `ai-skill/generated/fleet-contract-index.json` and replay `python ai-skill/scripts/fleet_contract.py` before claiming synchronized authority. Missing or changed hashes mean stale input, not permission to infer missing evidence. This adapter preserves the native bundle schema. Software admission is separate from expert certification, independent witnesses, and source-specific rights clearance.
