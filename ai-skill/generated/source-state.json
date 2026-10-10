@@ -1,0 +1,11 @@
+{
+  "schema_version": "1.0.0",
+  "canonical_repository": "hawkinsnick/Archanes-Script",
+  "source_commit": "92121da72a0b025be1b5e158be54f15ab969457a",
+  "source_tree": "92121da72a0b025be1b5e158be54f15ab969457a",
+  "generated_at_utc": null,
+  "source_state_kind": "baseline_reference",
+  "validation_status": "NOT_EXECUTED",
+  "master_contract_0_3_1": "NOT_CERTIFIED",
+  "note": "Baseline Git tree reference only; generated bundle may not reflect this commit. Do not treat as verified hash lock or master contract certification."
+}
