@@ -28,6 +28,6 @@ else:
         if "sha256" in a and hashlib.sha256(raw).hexdigest() != a["sha256"]:
             errors.append("sha256 mismatch: " + p)
 if errors:
-    print("\\n".join(errors))
+    print("\n".join(errors))
     sys.exit(1)
 print("PASS: native artifact checks; master contract NOT CERTIFIED")
