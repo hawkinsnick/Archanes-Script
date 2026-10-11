@@ -33,6 +33,8 @@
     "research/publication-register.json",
     "research/rights-register.json",
     "research/sign-occurrence-register.json",
-    "research/signary-authority-register.json"
+    "research/signary-authority-register.json",
+    "research/cross-corpus-dependencies.json",
+    "docs/AI-INTEGRITY.md"
   ]
 }
