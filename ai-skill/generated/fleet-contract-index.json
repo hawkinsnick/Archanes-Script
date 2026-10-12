@@ -39,13 +39,13 @@
     },
     {
       "path": "ai-skill/SKILL.md",
-      "sha256": "12399f70d6bd3603a1c3875561ccc25d72bdc00bbab2b08cf24a435c4392de46",
-      "bytes": 1864
+      "sha256": "59b4f3dae7e63af1ef170dd4bffe821b3f3640f1396e5e36da47e0a610a58642",
+      "bytes": 2845
     },
     {
       "path": "ai-skill/generated/research-bundle-index.json",
-      "sha256": "a4c6a80d45501924742fb822b37f650a21b3b7857ec6b2a05455c78c4b3a1be5",
-      "bytes": 1659
+      "sha256": "02981fbd8d70c4e879ef91640824f612b6996bbdbb4f1436a9d1ea9e459ac86c",
+      "bytes": 5738
     },
     {
       "path": "ai-skill/manifest.json",
@@ -54,8 +54,8 @@
     },
     {
       "path": "ai-skill/references/authority-profile.json",
-      "sha256": "4192a8fd5303f82f1dfdd330137410cdcd522658a49e80bf24266a54d76e5df1",
-      "bytes": 868
+      "sha256": "16f36d6c0c4d2f926a028f80fec7b4c8a18441ebfa3d9d73b9c2162f022104bd",
+      "bytes": 1240
     },
     {
       "path": "ai-skill/references/corpus-project-contract.md",
@@ -68,19 +68,34 @@
       "bytes": 473
     },
     {
+      "path": "ai-skill/scripts/build_bundle.py",
+      "sha256": "506258212d294ab6fda8a941abda01c3bf4e5a2fe8fb975ab49e42aee1b90320",
+      "bytes": 2222
+    },
+    {
       "path": "ai-skill/scripts/fleet_contract.py",
       "sha256": "e0df5afe8d83a17cd72758ea7e7fb1a96307bcb76173ebe74137c39680dadf48",
       "bytes": 3316
     },
     {
+      "path": "ai-skill/scripts/publish_sync.py",
+      "sha256": "d8eba15aaa833fc4071e98bdd22da53385bce1c5cbafc973443cb42f7e39cc0e",
+      "bytes": 2836
+    },
+    {
       "path": "ai-skill/scripts/validate_bundle.py",
-      "sha256": "efe5e2e371615cbe57b78ccd173543eef3822fb415b6621107d36fd518aef8a7",
-      "bytes": 1578
+      "sha256": "e6a707580079b55f3f80c3cabced40974b60b4054da7abb0b4e2a27fcc676486",
+      "bytes": 1888
     },
     {
       "path": "data/sources.json",
       "sha256": "4519251bf4756d46d9dc5b21afcf546e7972b83f697349dfbeab63c379b9858d",
       "bytes": 733
+    },
+    {
+      "path": "docs/AI-INTEGRITY.md",
+      "sha256": "8619d2ac88ca104eb10570b6c5c83021da5e5cdb57a7af1de076131d185207b0",
+      "bytes": 1766
     },
     {
       "path": "project.json",
@@ -94,8 +109,8 @@
     },
     {
       "path": "research/collection-work-ledger.json",
-      "sha256": "a6e60162ae97fc8ca4e098920bf1160e783307ffa0e0742a072c877fea1ba3d5",
-      "bytes": 21347
+      "sha256": "23806b0cc3e799f39d42a9bf02d0a7a49e38775291fb31ac74371a0dc3c5a0d4",
+      "bytes": 21558
     },
     {
       "path": "research/corpus-definition-register.json",
@@ -106,6 +121,11 @@
       "path": "research/corpus-quality-audit.json",
       "sha256": "c2cb9f32bd619235bd3b249e2e2271575fd5cc30d1ccc623cc5deb197894527b",
       "bytes": 2330
+    },
+    {
+      "path": "research/cross-corpus-dependencies.json",
+      "sha256": "fb00483d86e7b7debfc3ad7ff1ad87046a9e46bf0bbe3a55fa3bb948b287dc83",
+      "bytes": 18432
     },
     {
       "path": "research/decorte-2018-corpus-register.json",
@@ -149,7 +169,7 @@
     },
     {
       "path": "review/collection-packet.json",
-      "sha256": "3ba47da4f801676033ad686ea3de38324986e036415377135ad7b9f7b746efee",
+      "sha256": "49b102e6c316fbe45e95eb117401132d810408687ae0dbf09bd1a16a3a6df3db",
       "bytes": 1856
     }
   ]

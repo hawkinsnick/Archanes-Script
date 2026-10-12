@@ -1,14 +1,16 @@
 {
   "builder_sha256": "4b61ca559d0817b09e869f6c3ca38ae7478071a0466f89861e71954d1bb499d6",
   "completion_rule": "Enumeration is a completed work map, not completed collation. Resolve every open task using exact inspected evidence or a documented access/rights dependency; leave scientific adjudication to independent review.",
-  "config_sha256": "dd142f3dac84d9d4812ad1231916a63ae6f5c21b4c323fa8820ff9af20b0e3ce",
-  "evidence_fingerprint": "ffa6350d23b31c352fab72dd2afa0f7da3e7940303084425c3e1fddcf9a51f26",
+  "config_sha256": "756df661c383d64cd378dd9ac078f1181be957c2814ef73014530c332687a6b5",
+  "evidence_fingerprint": "f8c0c8071b2434101a39cbe696bd25e8300ec761d5cf2a27d8bedd5dee15c0d0",
   "input_sha256": {
     "data/sources.json": "4519251bf4756d46d9dc5b21afcf546e7972b83f697349dfbeab63c379b9858d",
+    "docs/AI-INTEGRITY.md": "8619d2ac88ca104eb10570b6c5c83021da5e5cdb57a7af1de076131d185207b0",
     "research/acquisition-queue.json": "35e12f24e3e3eccceca70f7e7ecf382a31ca668e52cb25c518406429e69728cf",
     "research/authority-delta-register.json": "91d07718d3be220b3ca015dfd587f55f5ba58a901ce5a2b94cb2e790077e4204",
     "research/corpus-definition-register.json": "4b2fb5a30d19cb54eb69979dd41658eaf38a9c93b184e10fe31b7e0ccec3a93e",
     "research/corpus-quality-audit.json": "c2cb9f32bd619235bd3b249e2e2271575fd5cc30d1ccc623cc5deb197894527b",
+    "research/cross-corpus-dependencies.json": "fb00483d86e7b7debfc3ad7ff1ad87046a9e46bf0bbe3a55fa3bb948b287dc83",
     "research/decorte-2018-corpus-register.json": "bfafdb3eb7f01d18de4bf18944ddfcf8be66bea2a7d699ea0d91836a75e402d9",
     "research/diachronic-subgroups.json": "553df7a0fbf78a90fb1d10a722379583640a5184b178bf9692283c1b3bd29107",
     "research/formula-comparanda.json": "a88b5c940ab32461cd17e0f62f491e21ffb5184be9ef81f06a3d0f59dcad50e1",
