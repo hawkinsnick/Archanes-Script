@@ -39,13 +39,13 @@
     },
     {
       "path": "ai-skill/SKILL.md",
-      "sha256": "abfe177d4a7e7a2182a5c074c805a70ea0ca0f0f3390819474eb3be022237eaf",
-      "bytes": 3991
+      "sha256": "6d22ae3d46cba6b1d62b04ce45dabf112f0805d7fa01d0b98c94433fd8a46a83",
+      "bytes": 4966
     },
     {
       "path": "ai-skill/generated/research-bundle-index.json",
-      "sha256": "13955881f9ea8f1f5f40d78f8155068fcdc0a88783d80812d16e2eb68081e1cc",
-      "bytes": 6752
+      "sha256": "cf036efc97890311d0112053ce2cc5717dd04a598cd8a7578361f79f39c31fee",
+      "bytes": 7755
     },
     {
       "path": "ai-skill/manifest.json",
@@ -69,8 +69,8 @@
     },
     {
       "path": "ai-skill/scripts/build_bundle.py",
-      "sha256": "1ed7773acf706f40b51fcb7133b90f42cfe82aff645a512eea8ae7f6091734c7",
-      "bytes": 2418
+      "sha256": "53363cd8d5cf5c012dba7c0e2fd64e297ec954c239beb87de6848e4f0d704bf8",
+      "bytes": 2605
     },
     {
       "path": "ai-skill/scripts/fleet_contract.py",
@@ -88,9 +88,14 @@
       "bytes": 1888
     },
     {
+      "path": "analysis/attribution-review-audit.json",
+      "sha256": "d40bedcadd0d1e447922f9aca86d75b01510464edef9be3dd4f7345a69dcc808",
+      "bytes": 974
+    },
+    {
       "path": "analysis/evidence-query-coverage.json",
-      "sha256": "cb5a65e2096badb2d7d63b0f27dd7149108fc02e054e6003f6da011c47b0f8fb",
-      "bytes": 6392
+      "sha256": "cdd3eb26af3a4f6fb7ecf9b0d8e94042cfd61ab10f20baa923a02ba0e00fe209",
+      "bytes": 7103
     },
     {
       "path": "data/sources.json",
@@ -103,14 +108,24 @@
       "bytes": 1766
     },
     {
+      "path": "docs/ATTRIBUTION-REVIEW.md",
+      "sha256": "adca98d38a903df6b504ad3bab08c9805d52ee9b2f96d07e827f7f906e81cb7f",
+      "bytes": 3315
+    },
+    {
       "path": "docs/EVIDENCE-AND-ALTERNATIVES.md",
-      "sha256": "b62d7b57badb53546374f025e8703fdeba17c552f66595ad32a7c7c1d4093d60",
-      "bytes": 4008
+      "sha256": "0ebcd54425fb36adebdde97f3f87ddf200793a8a03cccd09183745bee89a0ba6",
+      "bytes": 4983
     },
     {
       "path": "project.json",
       "sha256": "1f6da691a3831dd25b64944340c1e92332c2ce1b50ee1f5ad71ea18a75a8205a",
       "bytes": 327
+    },
+    {
+      "path": "research/attribution-review.json",
+      "sha256": "44104ee3dd06abf2419f293ac3e7ff028ac55203d22da303a12e81132fc541fc",
+      "bytes": 6280
     },
     {
       "path": "research/authority-delta-register.json",
@@ -149,8 +164,8 @@
     },
     {
       "path": "research/evidence-query-profile.json",
-      "sha256": "9e85b76a430b19ad2a64579571b195e675e9573366b63153855ede872141f0b6",
-      "bytes": 3883
+      "sha256": "f7751f2e8d3ca383e8fa98301da9e4da701c7df70a4cb334bdf54baa5b85f6ad",
+      "bytes": 5644
     },
     {
       "path": "research/formula-comparanda.json",
@@ -188,9 +203,19 @@
       "bytes": 1856
     },
     {
+      "path": "scripts/attribution_review.py",
+      "sha256": "29fd40045d96e9ee0d1d8f692b856a1b8a0631b9a5fa4fc86080d951c1236dbf",
+      "bytes": 6044
+    },
+    {
       "path": "scripts/evidence_query.py",
       "sha256": "70aa6686802122667b369811fa569c45c407847ed8965b917f58130c5a685550",
       "bytes": 11289
+    },
+    {
+      "path": "scripts/test_attribution_review.py",
+      "sha256": "d81e1c610325e822a1e079db18a619defe57654d7318a13a8be336760b37cae0",
+      "bytes": 3274
     },
     {
       "path": "scripts/test_native_evidence_query.py",
