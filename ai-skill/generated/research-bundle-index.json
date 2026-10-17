@@ -3,8 +3,8 @@
     {
       "path": "ai-skill/SKILL.md",
       "role": "native_authority",
-      "sha256": "6d22ae3d46cba6b1d62b04ce45dabf112f0805d7fa01d0b98c94433fd8a46a83",
-      "bytes": 4966
+      "sha256": "125967d330e742f0e642566cebdf16ab41760759270d0c4770b0afa115e26c8f",
+      "bytes": 5982
     },
     {
       "path": "ai-skill/references/authority-profile.json",
@@ -15,8 +15,8 @@
     {
       "path": "ai-skill/scripts/build_bundle.py",
       "role": "native_authority",
-      "sha256": "53363cd8d5cf5c012dba7c0e2fd64e297ec954c239beb87de6848e4f0d704bf8",
-      "bytes": 2605
+      "sha256": "54d47408bb952118b7ad2fe67e889fbe26fbc407c44dcdda728f2bd4abcbf471",
+      "bytes": 2796
     },
     {
       "path": "ai-skill/scripts/publish_sync.py",
@@ -43,6 +43,12 @@
       "bytes": 7103
     },
     {
+      "path": "analysis/research-delivery.json",
+      "role": "native_authority",
+      "sha256": "090bfc53b7d93fffe8a02f5af58973a9b1e01145a047f152f08a29e937f0ce1b",
+      "bytes": 7539
+    },
+    {
       "path": "data/sources.json",
       "role": "native_authority",
       "sha256": "4519251bf4756d46d9dc5b21afcf546e7972b83f697349dfbeab63c379b9858d",
@@ -65,6 +71,12 @@
       "role": "native_authority",
       "sha256": "0ebcd54425fb36adebdde97f3f87ddf200793a8a03cccd09183745bee89a0ba6",
       "bytes": 4983
+    },
+    {
+      "path": "docs/RESEARCH-DELIVERY.md",
+      "role": "native_authority",
+      "sha256": "e745c98907a4134dc4c1e7b7b89aa584215482be81ceccd835495e84aa889189",
+      "bytes": 4065
     },
     {
       "path": "project.json",
@@ -181,6 +193,12 @@
       "bytes": 11289
     },
     {
+      "path": "scripts/research_delivery.py",
+      "role": "native_authority",
+      "sha256": "2c113043ed51a459b82dc3959b7f56849bf1aa8c2223719ef3fdaa1321decf8d",
+      "bytes": 10075
+    },
+    {
       "path": "scripts/test_attribution_review.py",
       "role": "native_authority",
       "sha256": "d81e1c610325e822a1e079db18a619defe57654d7318a13a8be336760b37cae0",
@@ -191,6 +209,12 @@
       "role": "native_authority",
       "sha256": "ddd2af2ce39904014c8a58122278e524e7ae9d504c47218e26f1ba581bb581f4",
       "bytes": 6771
+    },
+    {
+      "path": "scripts/test_research_delivery.py",
+      "role": "native_authority",
+      "sha256": "70d2149542b267fdd633d43dd925644dbeeb5d5e66f27675b28c77de7109464b",
+      "bytes": 5678
     }
   ],
   "authoritative_inputs": [
@@ -219,5 +243,5 @@
   "project": "Archanes-Script",
   "schema_version": "1.0",
   "skill_version": "1.8.0",
-  "source_commit": "77d6e7bca8c41b0482078145329d177813cd0e17"
+  "source_commit": "e58d226a029ce42c2581412cefab40ae024369e3"
 }
