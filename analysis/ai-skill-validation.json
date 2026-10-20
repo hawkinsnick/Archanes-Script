@@ -1,0 +1,71 @@
+{
+  "format": "corpus-ai-skill-function-check-v1",
+  "repository": "hawkinsnick/Archanes-Script",
+  "status": "PASS_SCOPED_FUNCTIONAL_CHECKS",
+  "scope": "NATIVE_EVIDENCE_RETRIEVAL",
+  "skill_name": "archanes-script-research",
+  "skill_version": "0.3.1",
+  "skill_sha256": "56b616466ed35c6e0397b1aa2de5767d3cc921511bb65d103367cb9ad61bb675",
+  "bundle_source_commit": "693339eb164d1d9aef4e86f0afed9c318f11a2da",
+  "bundle_sha256": "5a53f7271e310c88611ab88237adabaaae778cf83b7dc10612def0df7013e27e",
+  "indexed_artifact_entries_checked": 41,
+  "unique_indexed_paths_checked": 41,
+  "lookups": [
+    {
+      "collection": "decorte-register",
+      "id": "AS#01",
+      "native_unit": "Decorte corpus-list entry",
+      "provenance": {
+        "path": "research/decorte-2018-corpus-register.json",
+        "sha256": "bfafdb3eb7f01d18de4bf18944ddfcf8be66bea2a7d699ea0d91836a75e402d9",
+        "pointer": "/records/0",
+        "native_artifacts_snapshot_commit": null,
+        "role": "decorte-register",
+        "encoding": "json"
+      }
+    },
+    {
+      "collection": "inscribe-metadata",
+      "id": "AS#02",
+      "native_unit": "INSCRIBE metadata reconciliation",
+      "provenance": {
+        "path": "research/inscribe-object-reconciliation.json",
+        "sha256": "8f321a29845427305b75dfe09968ce454e4ba5b1ddaeefac6ef85f9cf974af32",
+        "pointer": "/records/0",
+        "native_artifacts_snapshot_commit": null,
+        "role": "inscribe-metadata",
+        "encoding": "json"
+      }
+    },
+    {
+      "collection": "disagreement-register",
+      "id": "ARC-DIS-001",
+      "native_unit": "research disagreement/control item",
+      "provenance": {
+        "path": "research/disagreement-register.json",
+        "sha256": "a6c2e18bdd1c34598bae64ba253cc5d515eaec0189d0e0fc7078c0c996586113",
+        "pointer": "/items/0",
+        "native_artifacts_snapshot_commit": null,
+        "role": "disagreement-register",
+        "encoding": "json"
+      }
+    },
+    {
+      "collection": "attribution-review",
+      "id": "ARC-DIS-001",
+      "native_unit": "bounded documentary attribution review task",
+      "provenance": {
+        "path": "research/attribution-review.json",
+        "sha256": "44104ee3dd06abf2419f293ac3e7ff028ac55203d22da303a12e81132fc541fc",
+        "pointer": "/cases/0",
+        "native_artifacts_snapshot_commit": null,
+        "role": "bounded attribution review",
+        "encoding": "json"
+      }
+    }
+  ],
+  "missing_id_rejected": true,
+  "scholarly_acceptance_granted": false,
+  "empirical_model_accuracy_established": false,
+  "limits": "Deterministic workflow checks only. Independent model usage exercises are recorded separately; no cross-platform accuracy or scholarly acceptance is inferred."
+}
