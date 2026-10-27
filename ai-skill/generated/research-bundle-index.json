@@ -9,8 +9,8 @@
     {
       "path": "ai-skill/SKILL.md",
       "role": "native_authority",
-      "sha256": "f4d6db0aa46ccc6c74785b86422ae3e1dd6b0e2c37fcf769f886838ef1a1a1b1",
-      "bytes": 7918
+      "sha256": "406451704bbd4a1d185ff13372fe05c9644686749ac6857d85558fc40ecd8b4e",
+      "bytes": 9565
     },
     {
       "path": "ai-skill/manifest.json",
@@ -21,8 +21,8 @@
     {
       "path": "ai-skill/references/authority-profile.json",
       "role": "native_authority",
-      "sha256": "16f36d6c0c4d2f926a028f80fec7b4c8a18441ebfa3d9d73b9c2162f022104bd",
-      "bytes": 1240
+      "sha256": "0b14669c8f0660325a0bc3fbecb46d9ab33219b99aa30d1191176e08e56e2e7c",
+      "bytes": 1352
     },
     {
       "path": "ai-skill/scripts/build_bundle.py",
@@ -57,8 +57,8 @@
     {
       "path": "analysis/research-delivery.json",
       "role": "native_authority",
-      "sha256": "b125f60da076865510d09629ff00582e09871e9a2c236957dc832152cea337fa",
-      "bytes": 7539
+      "sha256": "6fa27296883ab6c28402a44bda8a72b6a5d674528285ed044fb3833c7866303f",
+      "bytes": 7696
     },
     {
       "path": "data/sources.json",
@@ -89,6 +89,12 @@
       "role": "native_authority",
       "sha256": "0ebcd54425fb36adebdde97f3f87ddf200793a8a03cccd09183745bee89a0ba6",
       "bytes": 4983
+    },
+    {
+      "path": "docs/NONREVIEW-WORK.md",
+      "role": "native_authority",
+      "sha256": "d88757393e5b8ff3810b1e401b1cb0f97832379a3cfd6efa14a89904eb30d9f8",
+      "bytes": 2960
     },
     {
       "path": "docs/RESEARCH-DELIVERY.md",
@@ -213,8 +219,8 @@
     {
       "path": "scripts/research_delivery.py",
       "role": "native_authority",
-      "sha256": "2c82a9f1fdac786da4b9583c3d463002a77d45fcdd604be86e4234b09070d756",
-      "bytes": 10387
+      "sha256": "41a6e40571391e2a4303b06a9a6eb4bf8575a84ca715d3932b8907edda64566c",
+      "bytes": 10514
     },
     {
       "path": "scripts/test_ai_skill_validation.py",
@@ -273,5 +279,5 @@
   "project": "Archanes-Script",
   "schema_version": "1.0",
   "skill_version": "1.8.0",
-  "source_commit": "98c47eefe9f2de1d109997bbfc3e29d8aedef5dc"
+  "source_commit": "c03a4418802d64d4895a1040edd0539f3ce1ba10"
 }
